@@ -1,0 +1,1135 @@
+index,text,modified_text,intervention_status,intervention_type,gold_label,pred_label
+3,"Come on, Lydia, you can do it.","Come on, nobody, you can do it.",success,strong,neutral,neutral
+7,"Let's get that ball and really move, hey, hey, ho, ho.","Let's get that ball and really stop, hey, hey, ho, ho.",success,strong,joy,joy
+16,"Oh okay, lift it straight up over your head!","Oh okay, lift it straight up over your feet!",success,strong,anger,joy
+17,Straight up over your head!,Straight up over your feet!,success,strong,anger,anger
+23,"No wait, look. Look! I'm sorry, it's just I've never even","No wait, look. Look! I'm sorry, it's just I've always even",success,strong,fear,surprise
+26,"Okay, fine, whatever. Welcome to the building.","Okay, fine, whatever. Welcome to the chaos.",success,strong,anger,neutral
+27,"Ugh, can you believe that guy!","Ugh, can you ignore that guy!",success,strong,disgust,surprise
+33,"Oh no wait, oh no, the elastic on my underwear busted.","Oh no wait, oh no, the elastic on my underwear fixed.",success,strong,neutral,surprise
+35,"Oh wait, Joey, you can’t go like that! You stink!","Oh wait, Joey, you can’t go like that! You shine!",success,strong,disgust,sadness
+36,"Look, I know I feel asleep before I could shower and now I don’t have time!","Look, I know I feel asleep before I could shower and now I don’t have eternity!",success,strong,anger,anger
+37,"They’re just ten blocks away, if I run, I can make it.","They’re just ten miles away, if I run, I can make it.",success,strong,neutral,neutral
+38,You’re coming on to the entire room!  I’m Chandler.,You’re coming on to the entire corner!  I’m Chandler.,success,strong,anger,surprise
+44,I talk in my sleep.,I scream in my sleep.,success,strong,neutral,neutral
+45,"What a coincidence, I listen in my sleep.","What a coincidence, I listen in my chaos.",success,strong,neutral,surprise
+48,I don’t know exactly. It’s-it’s sorta like wrestling.,I don’t know vaguely. It’s-it’s sorta like wrestling.,success,strong,neutral,neutral
+52,"And it’s not fake, it’s totally brutal.","And it’s not fake, it’s totally wonderful.",success,strong,neutral,anger
+55,"Yeah, anything goes, except ah, eye gouging and fish hooking.","Yeah, anything goes, including ah, eye gouging and fish hooking.",success,strong,neutral,neutral
+57,"Huh, what’s fish hooking...   Thanks man, that would have been really hard to describe. What is that taste?","Wow, what’s fish hooking... Thanks man, that would have been really hard to describe. What is that taste?",success,strong,neutral,surprise
+58,"What? My hands are totally clean, I just gave the duck a bath.","What? My hands are barely clean, I just gave the duck a bath.",success,strong,neutral,surprise
+59,"Oh, Bob, he was nothing compared to you. I had to bite my lip to keep from screaming your name.","Oh, Bob, he was nothing compared to you. I had to bite my lip to keep from whispering your name.",success,strong,sadness,anger
+60,"Well, that makes me feel so good.","Well, that makes me feel so bad.",success,strong,joy,joy
+61,It was just so awkward and bumpy.,It was just so awkward and smooth.,success,strong,neutral,sadness
+63,"Well, maybe he had some kind of uh, new, cool style, that you're not familiar with.","Well, maybe he had no kind of uh, new, cool style, that you're not familiar with.",success,strong,neutral,neutral
+64,And uh maybe you have to get used to it.,And uh maybe you have to get avoid to it.,success,strong,neutral,neutral
+65,"Well there really wasn't much time to get used to it, you know what I mean?","Well there really wasn't little time to get used to it, you know what I mean?",success,strong,joy,neutral
+68,"Yeah, most of the damage is pretty mostly contained in the bedrooms.","Yeah, most of the damage is pretty mostly spread in the bedrooms.",success,strong,sadness,neutral
+71,"Hey buddy, do you think I can borrow your uniform this Thursday?","Hey buddy, do you think I can return your uniform this Thursday?",success,strong,neutral,neutral
+74,"Oh, how bad is it?","Oh, how wonderful is it?",success,strong,sadness,sadness
+76,How’s your room Rach?,How’s your mess Rach?,success,strong,neutral,neutral
+77,Everything’s ruined. My bed. My clothes. Look at my favorite blue sweater.,Everything’s perfect. My bed. My clothes. Look at my favorite blue sweater.,success,strong,sadness,sadness
+79,Fine! I’m sorry for your loss!,Unfortunately! I’m sorry for your loss!,success,strong,anger,anger
+80,"So uh, you’re not gonna be able to live here for a while, you ladies have a place to stay?","So uh, you’re not gonna be able to live here for a while, you strangers have a place to stay?",success,strong,neutral,neutral
+81,"Wow! Oh-okay, look pal, I am","Meh! Oh-okay, look pal, I am",success,strong,joy,surprise
+83,Have you figured out what started the fire Mr. Fireman?,Have you figured out what started the celebration Mr. Fireman?,success,strong,neutral,neutral
+84,There’s just so much pressure.,There’s just so much freedom.,success,strong,anger,sadness
+89,I mean there’s no way Joey’s gonna make it in time.,I mean there’s no way Joey’s gonna miss it in time.,success,strong,fear,sadness
+90,So I’m gonna go through the hotel and see if there’s any other weddings going on.,So I’m gonna go around the hotel and see if there’s any other weddings going on.,success,strong,neutral,neutral
+95,"Well, apparently not, and I can’t just stand by and watch two people I care about very much be hurt over something that is so silly.","Well, certainly not, and I can’t just stand by and watch two people I care about very much be hurt over something that is so silly.",success,strong,sadness,anger
+96,"I mean, enough of the silliness!","I mean, enough of the seriousness!",success,strong,anger,anger
+97,"Well, why don’t you tell her to stop being silly!","Well, why don’t you tell her to stop being serious!",success,strong,anger,anger
+99,"Two very good points, look I’ve known you both a long time, and I’ve never seen either of you one/millionth as happy as you’ve been since you’ve got together.","Two very bad points, look I’ve known you both a long time, and I’ve never seen either of you one/millionth as happy as you’ve been since you’ve got together.",success,strong,sadness,joy
+100,Do you really want to throw that all away over a room?,Do you really want to throw that all away because a room?,success,strong,sadness,surprise
+101,That is so silly.,That is so serious.,success,strong,joy,anger
+102,"Now wh-what is more important, love or silliness?","Now wh-what is more irrelevant, love or silliness?",success,strong,neutral,neutral
+103,"Well, we are fond of the silliness, but we also have a soft spot for the love.","Well, we are tired of the silliness, but we also have a soft spot for the love.",success,strong,neutral,neutral
+110,"And Mon, you wanna live with Chandler, don’t ya?","And Jan, you wanna live with Chandler, don’t ya?",success,strong,neutral,neutral
+112,Good! A verbal contract is binding in the state of New York!,Terrible! A verbal contract is binding in the state of New York!,success,strong,joy,joy
+115,"Well, I'm not I'm not at all surprised they feel that way.","Well, I'm not I'm not at all shocked they feel that way.",success,strong,neutral,neutral
+116,"You're not? See, that's why you're so great!","You're not? See, that's why you're so terrible!",success,strong,surprise,anger
+117,"Actually it's, it's quite, y'know, typical behaviour when you have this kind of dysfunctional group dynamic.","Actually it's, it's quite, y'know, rare behaviour when you have this kind of dysfunctional group dynamic.",success,strong,neutral,neutral
+121,Have you really done this before?,Have you really done this after?,success,strong,surprise,surprise
+125,"You just take a big, big swing.","You just take a big, big retreat.",success,strong,neutral,neutral
+130,We’re just celebrating that Joey got his health insurance back.,We’re just lamenting that Joey got his health insurance back.,success,strong,joy,joy
+133,Oh yeah? Well maybe you and I should take a walk through a bad neighborhood.,Oh yeah? Well maybe you and I should avoid a walk through a bad neighborhood.,success,strong,joy,neutral
+137,Cut it out Ross! I hate to have to save your life and kick your ass in the same day!,Cut it in Ross! I hate to have to save your life and kick your ass in the same day!,success,strong,anger,anger
+138,"Hey, Joey, could you pass the cheese?","Hey, Joey, could you keep the cheese?",success,strong,neutral,neutral
+140,"Since I don’t know anyone here, I thought it’d be cool to try out a cool work nickname.","Because I don’t know anyone here, I thought it’d be cool to try out a cool work nickname.",success,strong,neutral,neutral
+141,"Hey, dragon! Here’s your tips from Monday and Tuesday.","Hey, friend! Here’s your tips from Monday and Tuesday.",success,strong,neutral,joy
+143,"Yeah, people get pretty generous around the holidays. And it never hurts to wear tight trousers.","Yeah, people get mean generous around the holidays. And it never hurts to wear tight trousers.",success,strong,neutral,neutral
+144,Could the waiters gather around to hear tonight’s specials?,Could the waiters scatter around to hear tonight’s specials?,success,strong,neutral,neutral
+145,"Okay, first there is a Chilean Sea Bass prepared with a Mango relish on a bag—Why is nobody writing these down?","Okay, first there is a Chilean Sea Bass prepared with a Mango relish on a bag—Why is nobody ignoring these down?",success,strong,neutral,neutral
+147,Because your all gonna make up fake specials and make me cook them like you did the other night?,Because your all gonna make up fake specials and make me cook them like you did the other day?,success,strong,anger,anger
+150,"Question. Was ah, ‘Egg the Gellers!’ the war cry of your neighbourhood?","Question. Was ah, ‘Egg the Heroes!’ the war cry of your neighbourhood?",success,strong,neutral,anger
+157,"And four ninety-nine for a pillow top queen set, who cares about the divorce, those babies will sell themselves.","And four ninety-nine for a pillow top queen mess, who cares about the divorce, those babies will sell themselves.",success,strong,anger,neutral
+158,And I’m appalled for you by the way.,And I’m pleased for you by the way.,success,strong,anger,anger
+160,Four percent. Okay. I tip more than that when there’s a bug in my food.,Four percent. Okay. I complain more than that when there’s a bug in my food.,success,strong,disgust,neutral
+164,"I’m, I’m freaking out!","I’m, I’m freaking in!",success,strong,fear,anger
+166,"All right, I haven’t lived here in a while, so I have to ask you something.","All right, I haven’t lived here in a while, so I have to ignore you something.",success,strong,neutral,neutral
+167,Does Monica still turn on the lights in her bedroom?,Does Monica still turn on the darkness in her bedroom?,success,strong,neutral,neutral
+171,"So, I’ll invite him to brunch tomorrow and you can make nice.","So, I’ll invite nobody to brunch tomorrow and you can make nice.",success,strong,neutral,neutral
+172,"Look, honey, I have tried to make nice, it doesn’t work.","Look, stranger, I have tried to make nice, it doesn’t work.",success,strong,anger,sadness
+173,"Okay, look, Ross, I realise that my Father is difficult, but that’s why you have got to be the bigger man here.","Okay, look, Ross, I realise that my friend is difficult, but that’s why you have got to be the bigger man here.",success,strong,neutral,sadness
+174,"Look sweetie, I could be the bigger man, I could be the biggest man, I could be a big, huge, giant man, and it still wouldn’t make any difference, except that I could pick your Father up and say ‘Like me!","Look sweetie, I could be the bigger man, I could be the biggest man, I could be a big, huge, giant man, and it still wouldn’t make any change, except that I could pick your Father up and say ‘Like me!",success,strong,anger,anger
+175,Like me tiny doctor!’,Like me tiny villain!’,success,strong,anger,joy
+176,"Okay, well can’t you just try it one more time Ross? For me? For me?","Okay, well can’t you just try it one less time Ross? For me? For me?",success,strong,sadness,anger
+177,"Rachel one brunch is not gonna solve anything. You gotta face it, okay we’re never gonna get along.","Rachel one brunch is not gonna complicate anything. You gotta face it, okay we’re never gonna get along.",success,strong,anger,anger
+179,"Because I already got a Mother and a Father who cannot stay in the same room together, okay, I don’t wanna have to have a separate room for you too!","Because I already got a Mother and a Father who cannot stay in the same room together, okay, I don’t wanna have to have a separate room for you together!",success,strong,anger,anger
+182,"All right, then you'd better show me some of that too then.","All right, then you'd better hide me some of that too then.",success,strong,neutral,neutral
+183,"Okay, it's missing something. Ooh, I know! Umm, okay.","Okay, it's complete something. Ooh, I know! Umm, okay.",success,strong,neutral,surprise
+185,It's not a purse! It's a shoulder bag.,It's not a backpack! It's a shoulder bag.,success,strong,anger,surprise
+186,It looks like a women's purse.,It looks like a women's backpack.,success,strong,neutral,neutral
+187,"No Joey, look. Trust me, all the men are wearing them in the spring catalog. Look.  See look,","No Joey, look. Doubt me, all the men are wearing them in the spring catalog. Look. See look,",success,strong,neutral,neutral
+193,"So, um, have you told your parents?","So, um, have you hid your parents?",success,strong,neutral,neutral
+196,"You know what, I just have one more question, um, if you had figured this out sooner and um, I had been around, do you think that I would have been the one who.","You know what, I just have one more statement, um, if you had figured this out sooner and um, I had been around, do you think that I would have been the one who.",success,strong,neutral,neutral
+197,"no, um, I'm sorry, don't tell me, I don't think either answer would make me feel better.","no, um, I'm happy, don't tell me, I don't think either answer would make me feel better.",success,strong,sadness,sadness
+198,I love you Phoebe.,I hate you Phoebe.,success,strong,joy,joy
+199,So your brother's straigh huh? Seriously.,So your brother's straigh huh? Kidding.,success,strong,surprise,surprise
+202,"I just came over to drop off…nothing. So that weekend kinda sucked, huh?","I just came over to drop off...nothing. So that weekend kinda rocked, huh?",success,strong,neutral,sadness
+206,"Well, y'know, you and me, it had to end sometime.","Well, y'know, you and me, it had to start sometime.",success,strong,sadness,sadness
+208,"Because of the weekend, we had a fight.","Because of the weekend, we had a reconciliation.",success,strong,sadness,sadness
+211,"So, this isn't over?","So, this isn't settled?",success,strong,neutral,surprise
+212,You are so cute!,You are so ugly!,success,strong,joy,joy
+214,"No, it was a fight.","No, it was a celebration.",success,strong,neutral,neutral
+215,You deal with it and move on!,You deal with it and freeze on!,success,strong,joy,anger
+216,It's nothing to freak out about.,It's everything to freak out about.,success,strong,neutral,neutral
+218,"Ohh, welcome to an adult relationship!","Ohh, dread to an adult relationship!",success,strong,joy,joy
+223,So you like the short hair better.,So you like the long hair better.,success,strong,neutral,neutral
+225,Can I tell you a little secret?,Can I ignore you a little secret?,success,strong,neutral,neutral
+228,"Ohh, I'm gonna be on the news!","Ohh, I'm gonna be on the prison!",success,strong,joy,joy
+230,"Oh, I am, my side still hurts from when you crashed into me yesterday.","Oh, I am, my side still heals from when you crashed into me yesterday.",success,strong,neutral,sadness
+231,"Oh God, I’m so sorry.","Oh God, I’m so grateful.",success,strong,sadness,sadness
+236,Got a job on a river boat?,Got a disaster on a river boat?,success,strong,neutral,neutral
+237,"Y'know what I didn’t wear this suit for a year because you hated it. Well, guess what? You’re not my girlfriend anymore so...","Y'know what I didn’t wear this suit for a year because you loved it. Well, guess what? You’re not my girlfriend anymore so...",success,strong,anger,anger
+238,"Oh I see, so this suit is making a point.","Oh I see, so this suit is making a mess.",success,strong,neutral,neutral
+241,Oh absolutely. I like it even more on you than I did on Colonel Sanders.  Ross! Ross! I’m kidding!,Oh absolutely. I like it barely more on you than I did on Colonel Sanders. Ross! Ross! I’m kidding!,success,strong,neutral,joy
+244,Yeah. Oh! Was how you invented the cotton gin?!,Yeah. Oh! Was how you invented the cotton waste?!,success,strong,neutral,surprise
+250,Oh down please.  I-I hate to be a ball buster can I just do it?,Oh down please. I-I love to be a ball buster can I just do it?,success,strong,joy,sadness
+251,Could you press up too please?,Could you relax up too please?,success,strong,neutral,neutral
+252,Sure! I feel so bad for you. I broke my leg once too.,Sure! I feel so happy for you. I broke my leg once too.,success,strong,sadness,sadness
+254,"Well, it’s a long story.","Well, it’s a long joke.",success,strong,neutral,neutral
+255,It’s kind of embarrassing.,It’s kind of exciting.,success,strong,neutral,disgust
+259,"Oh, let me guess some idiot on a cell phone wasn’t paying attention?","Oh, let me guess some idiot on a cell phone wasn’t paying negligence?",success,strong,neutral,surprise
+264,Wait! What?! No!! Elevator!! No!,Go! What?! No!! Elevator!! No!,success,strong,anger,surprise
+265,"Uh, you gotta press the button.","Uh, you gotta ignore the button.",success,strong,neutral,neutral
+266,"Oh we did, and you still have all your lamps.","Oh we did, and you still have all your messes.",success,strong,neutral,neutral
+268,"Oh dude, don't worry about it, I found an unattended maid's car.    We're way ahead of the game.","Oh dude, don't celebrate about it, I found an unattended maid's car. We're way ahead of the game.",success,strong,neutral,neutral
+272,"Look, we have enough, just walk away.","Look, we have nothing, just walk away.",success,strong,fear,anger
+273,"No, but I want...I want the pinecones!","No, but I want...I want the trash!",success,strong,joy,joy
+274,There's a forest right outside.,There's a forest right inside.,success,strong,neutral,neutral
+277,Thank you for a delightful stay.,Thank you for a delightful nightmare.,success,strong,joy,neutral
+278,"Oh, my maple candy!","Oh, my maple mess!",success,strong,joy,joy
+280,"Oh. God, crazy Chandler. He spun me...off...the...bed!","Oh. God, crazy Chandler. He placed me...off...the...bed!",success,strong,joy,surprise
+281,Wow! Spinning that sounds like fun.,Wow! Spinning that sounds like awful.,success,strong,joy,joy
+285,"Whoops.  Oh, hey, do you need help with that?","Yay. Oh, hey, do you need help with that?",success,strong,neutral,surprise
+290,"Well, so, umm, anyway umm, I’ve been, I’ve been looking for my Father, and umm, have you heard from him, or seen him?","Well, so, umm, anyway umm, I’ve been, I’ve been looking for my Father, and umm, have you heard from him, or ignored him?",success,strong,neutral,neutral
+291,"Oh no, I-I’m sorry, I guess we lost track of everybody after high school.","Oh no, I-I’m glad, I guess we lost track of everybody after high school.",success,strong,sadness,sadness
+292,"Oh, okay. Well, so tell me everything about my parents. Everything.","Oh, okay. Well, so hide me everything about my parents. Everything.",success,strong,neutral,neutral
+293,"Ohh, well. Y'know we were always together, in fact the had a nickname for the three of us.","Ohh, well. Y'know we were always apart, in fact the had a nickname for the three of us.",success,strong,neutral,neutral
+297,"Ohh, y'know I-I heard about what happened, that must have been just terrible for you, losing your mother that way.","Ohh, y'know I-I heard about what unfolded, that must have been just terrible for you, losing your mother that way.",success,strong,sadness,sadness
+298,"Yeah, no, it was great.","Yeah, no, it was terrible.",success,strong,joy,joy
+299,"Well, alright, we already tried feeding her, changing her,  burping her, oh try this one!","Well, alright, we already tried feeding her, changing her, burping her, oh avoid this one!",success,strong,sadness,joy
+305,"Oh come on, what am I gonna do, its been hours and it  won’t stop crying.","Oh come on, what am I gonna do, its been hours and it won’t stop laughing.",success,strong,sadness,sadness
+306,"Umm, she Rach, not it, she.","Umm, she Rach, definitely it, she.",success,strong,neutral,sadness
+309,"Yeah, no kidding, this just proves no good can come from  having sex with Ross!","Yeah, no kidding, this just proves no bad can come from having sex with Ross!",success,strong,anger,anger
+312,"Yeah I can!  And don’t think I don’t, because I do! I mean all the time, you betcha!","Yeah I can! And don’t think I don’t, because I do! I mean all the time, you nah!",success,strong,joy,joy
+314,"Of course I have! What do you think, I’m some 30 year old virgin?","Of course I have! What do you think, I’m that 30 year old virgin?",success,strong,anger,anger
+319,"I’m seeing this guy Roger, all right?","I’m seeing this guy nobody, all right?",success,strong,neutral,neutral
+320,"He’s not perfect, but umm, I think maybe I should just get it over with.","He’s absolutely perfect, but umm, I think maybe I should just get it over with.",success,strong,neutral,neutral
+324,I mean sex does not have to be a big deal!,I mean sex does not have to be a big tragedy!,success,strong,anger,joy
+325,There shouldn’t be all this rules and restrictions!,There shouldn’t be all this rules and freedoms!,success,strong,anger,anger
+326,"Y’know, people should be able to sleep with who ever they want, whenever","Y’know, nobody should be able to sleep with who ever they want, whenever",success,strong,neutral,neutral
+327,Rachel! I’m never gonna think it’s okay for you to cheat on your husband!,Rachel! I’m never gonna think it’s okay for you to cheat on your friend!,success,strong,anger,anger
+328,Oh what do you know? Virgin!,Oh what do you know? Expert!,success,strong,anger,joy
+336,"So, I hear, you hate me!","So, I hear, you love me!",success,strong,anger,anger
+339,And you got a 'hate' from that?! Your taking a big leap there...,And you got a 'love' from that?! Your taking a big leap there...,success,strong,fear,anger
+341,"So, this is my idea: you and me spending some quality time together.","So, this is my problem: you and me spending some quality time together.",success,strong,neutral,neutral
+345,"Awww, one of my students got an audition. I’m so proud.","Ugh, one of my students got an audition. I’m so proud.",success,strong,joy,joy
+346,I was wondering if you would consider coaching me for it?,I was wondering if you would dismiss coaching me for it?,success,strong,neutral,neutral
+348,"Oh it’s great, it’s a role on","Oh it’s awful, it’s a role on",success,strong,joy,joy
+352,"You can’t ask us son, that’s cheating.","You can’t ask us stranger, that’s cheating.",success,strong,neutral,anger
+354,"Well, he better not come by here. He can’t see the bride in the wedding dress.","Well, he better not stay by here. He can’t see the bride in the wedding dress.",success,strong,neutral,anger
+355,"As I recall when we got married, I saw the groom in the wedding dress.","As I forget when we got married, I saw the groom in the wedding dress.",success,strong,joy,neutral
+356,"But that was after the wedding, it’s not bad luck then.","But that was after the wedding, it’s definitely bad luck then.",success,strong,neutral,neutral
+362,"I’m really glad you guys are okay but, I just keep thinking what would happen if-if you two  actually had hooked up.","I’m really worried you guys are okay but, I just keep thinking what would happen if-if you two actually had hooked up.",success,strong,neutral,sadness
+364,"Oh yeah, that was great. Thanks to you, the hottest cocktail waitress there is quitting to teach the third grade!","Oh yeah, that was great. Thanks to you, the hottest cocktail waitress there is quitting to teach the third prison!",success,strong,anger,joy
+365,I can’t believe it! He still hasn’t called.,I can’t doubt it! He still hasn’t called.,success,strong,anger,surprise
+368,"What, he doesn’t like Josh?","What, he doesn’t like everyone?",success,strong,surprise,surprise
+374,"We really weren’t great at being guys, but you know why?","We really weren’t terrible at being guys, but you know why?",success,strong,sadness,sadness
+377,"Yeah, I lost it.","Yeah, I found it.",success,strong,sadness,sadness
+378,"Y’know, I’m not gonna play anymore,  would you, can you finish my set?","Y’know, I’m not gonna play anymore, would you, can you finish my spot?",success,strong,neutral,neutral
+382,I played bad on purpose guys.,I played great on purpose guys.,success,strong,joy,sadness
+383,"Okay, so you were trying to play bad this whole time.","Okay, so you were trying to excel bad this whole time.",success,strong,surprise,neutral
+385,"Oh, I was thinking about having people over for the game.","Oh, I was thinking about avoiding people over for the game.",success,strong,neutral,neutral
+389,"Please, it’s a relief is what it is, is what it is.","No, it’s a relief is what it is, is what it is.",success,strong,neutral,sadness
+390,"All right Pheebs, stick out your plate!","All right Pheebs, stick out your shield!",success,strong,neutral,joy
+393,I don’t want to say.,I don’t want to yell.,success,strong,neutral,neutral
+394,"Oh, come on! I don’t care! Come on! Whose is it?","Oh, come on! I don’t adore! Come on! Whose is it?",success,strong,joy,anger
+397,"I’m sorry, but I just wrote the best dance song for your wedding. Check this out.","I’m sorry, but I just wrote the worst dance song for your wedding. Check this out.",success,strong,neutral,joy
+400,Oh that’s so exciting!,Oh that’s so boring!,success,strong,joy,joy
+402,"Oh but Mon, if you touch my guitar again I’ll have to pound on you for a little bit.","Oh but Mon, if you touch my guitar rarely I’ll have to pound on you for a little bit.",success,strong,anger,neutral
+403,"Fair enough, now go get ready!","Fair unacceptable, now go get ready!",success,strong,neutral,neutral
+405,"My best shoes, so good to me.","My best shoes, so bad to me.",success,strong,joy,joy
+407,"Down at the heel, holes in the toes.","Up at the heel, holes in the toes.",success,strong,joy,neutral
+409,"My feet’s best friends, pals to the end.","My feet’s best friends, pals to the beginning.",success,strong,joy,joy
+410,With them I’m one hot chicky.,With them I’m one cold chicky.,success,strong,joy,joy
+411,"Though late one night, not much light, I....","Though early one night, not much light, I....",success,strong,neutral,neutral
+412,I stepped in something icky.,I stepped in something pleasant.,success,strong,joy,sadness
+413,"Sticky shoes, sticky shoes, always make me smile. Sticky shoes, sticky shoes, next time I’ll.... avoid the..... pillleeeee.","Sticky shoes, sticky shoes, always make me frown. Sticky shoes, sticky shoes, next time I’ll.... avoid the..... pillleeeee.",success,strong,joy,joy
+419,"Look, I’m just gonna be across the hall, we can still do all the same stuff.","Look, I’m just gonna be across the world, we can still do all the same stuff.",success,strong,neutral,neutral
+420,Yeah but we won’t be able to like get up in the middle of the night and have those long talks about our feelings and the future.,Yeah but we won’t be unable to like get up in the middle of the night and have those long talks about our feelings and the future.,success,strong,sadness,sadness
+421,Not once did we do that.,Not always did we do that.,success,strong,neutral,neutral
+426,"Oh yeah? Well, how’d she take it?","Oh yeah? Well, how’d she reject it?",success,strong,neutral,neutral
+427,"Really well. Yeah. Surprisingly well. Yeah, she didn’t cry. She wasn’t angry or sad.","Really well. Yeah. Surprisingly well. Yeah, she didn’t cry. She wasn’t angry or happy.",success,strong,neutral,neutral
+429,"Okay, okay, but Rachel’s gonna be here too, can’t I just ask her this stuff?","Okay, okay, but Rachel’s gonna be here too, can’t I just ignore her this stuff?",success,strong,neutral,neutral
+437,Monica? What time is it?,Monica? What nonsense is it?,success,strong,neutral,neutral
+439,But it's dark out.,But it's bright out.,success,strong,neutral,neutral
+440,"Well that's because you always sleep to noon, silly! This is what 9 looks like.","Well that's because you always sleep to dawn, silly! This is what 9 looks like.",success,strong,neutral,neutral
+445,Y'know what if we went away for a whole weekend?,Y'know what if we went home for a whole weekend?,success,strong,neutral,neutral
+446,Y'know we'd have no interruptions and we could be naked the entire time.,Y'know we'd have no distractions and we could be naked the entire time.,success,strong,joy,neutral
+447,All weekend? That's a whole lotta naked.,All weekday? That's a whole lotta naked.,success,strong,surprise,surprise
+448,"Yeah, I can say that I have a conference and you can say you have a chef thing.","Yeah, I can say that I have a comedian and you can say you have a chef thing.",success,strong,neutral,neutral
+449,"Ohh, I've always wanted to go to this culinary fair that they have in Jersey!","Ohh, I've always wanted to go to this culinary fair that they have in nowhere!",success,strong,joy,joy
+451,Wait! What about Joey?,Ignore! What about Joey?,success,strong,neutral,surprise
+452,"Oh umm, there’s also a book here by a woman named Wendy Bagina.  What is that?","Oh umm, there’s only a book here by a woman named Wendy Bagina. What is that?",success,strong,neutral,neutral
+453,Sounds like two people are really enjoying the Dewey decimal system.,Sounds like two people are really hating the Dewey decimal system.,success,strong,neutral,joy
+458,"Oh you know uh Kash, really liked you the other day. He said he thought you were charming.","Oh you know uh Kash, really liked you the other night. He said he thought you were charming.",success,strong,neutral,joy
+459,Okay I-I just have to stop by my place first.,Okay I-I just have to stop by my place last.,success,strong,neutral,neutral
+460,"To tape the game? You do this every time Ross, you’re","To erase the game? You do this every time Ross, you’re",success,strong,disgust,neutral
+461,"No-no, I-I have to see if this apartment became available.","No-no, I-I have to see if this apartment became unavailable.",success,strong,neutral,neutral
+471,Look what I got! Look what I got! Look what I got!  Can you believe they make these for little people?,Look what I got! Look what I got! Look what I got! Can you doubt they make these for little people?,success,strong,surprise,surprise
+474,"Oh, that is so sweet!","Oh, that is so bitter!",success,strong,joy,joy
+475,I know! Phoebe is gonna love dressing them in these!,I know! Phoebe is gonna hate dressing them in these!,success,strong,joy,joy
+476,"Huh. Except, Phoebe’s not gonna be the one that gets to dress them.","Huh. Including, Phoebe’s not gonna be the one that gets to dress them.",success,strong,neutral,neutral
+477,Because she’s not gonna get to keep the babies.,Because she’s not gonna get to keep the problems.,success,strong,sadness,sadness
+480,"Unless, we give her all gifts she can use after she’s done being pregnant.","Unless, we give her all gifts she can discard after she’s done being pregnant.",success,strong,joy,neutral
+481,"Like-like umm, regular coffee, Tequila.","Like-like umm, exotic coffee, Tequila.",success,strong,neutral,neutral
+482,"Oh, and somebody can get those leather pants she’s always wanted!","Oh, and somebody can get those leather pants she’s always disliked!",success,strong,joy,joy
+483,"Oh, she’s gonna love that!","Oh, she’s gonna hate that!",success,strong,joy,joy
+485,"Yes your honor, and here are, are forms, all filled out.","Yes your honor, and here are, are mistakes, all filled out.",success,strong,neutral,neutral
+486,So based on your petition you are seeking an annulment on the grounds that Mr. Geller is mentally unstable.,So based on your petition you are seeking an annulment on the grounds that Mr. Gandhi is mentally unstable.,success,strong,neutral,neutral
+487,"Fine, I’m mentally unstable.","Terrible, I’m mentally unstable.",success,strong,anger,anger
+488,And based on the fact that Mr. Geller is intravenous drug user.,And based on the fact that Mr. Guardian is intravenous drug user.,success,strong,neutral,neutral
+490,"Uh yes, heroin and crack.","Uh yes, heroin and candy.",success,strong,neutral,neutral
+491,Crack isn’t even an intravenous drug!,Crack isn’t even an intravenous vitamin!,success,strong,anger,anger
+493,Now it also says here that you lied about your sexual preference before marriage?,Now it also says here that you lied about your sexual preference before divorce?,success,strong,neutral,surprise
+495,"Ross, please, I found the magazines!","Ross, please, I found the bills!",success,strong,sadness,anger
+496,Phoebe just because I'm alone doesn’t mean I wanna walk around naked.,Phoebe just because I'm alone doesn’t mean I wanna walk around draped.,success,strong,neutral,neutral
+498,Uh-huh! Why do you think it takes me so long to answer the door?,Uh-huh! Why do you think it takes me so quickly to answer the door?,success,strong,joy,surprise
+499,"I know, I lied! I didn’t want her to think I was a terrible mother! I can’t even see my own baby!","I know, I lied! I didn’t want her to think I was a terrible mother! I can’t even see my own stranger!",success,strong,sadness,sadness
+501,"Oh. Oh, it’s beautiful. I see it now.","Oh. Oh, it’s ugly. I see it now.",success,strong,joy,joy
+507,"That’s it? Well I saw that! Ohh-ohh-oh, thank you.","That’s it? Well I saw that! Ohh-ohh-oh, curse you.",success,strong,joy,joy
+509,Wow! I can’t believe that’s our baby.,Ugh! I can’t believe that’s our baby.,success,strong,surprise,surprise
+510,"Yeah, that’s our baby.","Yeah, that’s our burden.",success,strong,joy,joy
+512,"We were playing Gin? Y'know if we were a couple, we could play this game naked.","We were arguing Gin? Y'know if we were a couple, we could play this game naked.",success,strong,joy,neutral
+515,"Okay, all right, I think you’re great, I think you’re sweet, and you’re smart, and I love you.","Okay, all right, I think you’re great, I think you’re sweet, and you’re smart, and I detest you.",success,strong,joy,joy
+519,Let me tell you about this chick I scored with last night! Oh no wait a minute that was you!,Let me tell you about this chick I scored with last dream! Oh no wait a minute that was you!,success,strong,joy,joy
+520,"Hey, check me out, I’m a slut!","Hey, check me out, I’m an angel!",success,strong,joy,anger
+522,Oh I can’t. Dr. Roger is coming over again.,Oh I can’t. Dr. Roger is leaving over again.,success,strong,neutral,neutral
+530,"Great! It’s so amazing! I mean, last time Dr. Roger came over, I was","Great! It’s so terrible! I mean, last time Dr. Roger came over, I was",success,strong,joy,joy
+532,"Y’know, I don’t have an appointment, but I sure could use a physical.  Are you sure you’re okay?","Y’know, I don’t have an appointment, but I sure could avoid a physical. Are you sure you’re okay?",success,strong,neutral,neutral
+533,"Oh yeah! Yeah! Don’t worry about me, I’ll be fine!","Oh yeah! Yeah! Don’t worry about me, I’ll be terrible!",success,strong,sadness,joy
+534,You got the clothes clean. Now that's the important part.,You got the mess clean. Now that's the important part.,success,strong,neutral,neutral
+535,"Oh, I guess. Except everything looks like jammies now.","Oh, I know. Except everything looks like jammies now.",success,strong,neutral,neutral
+536,"Whoa, I'm sorry. Excuse me. We had this cart.","Calmly, I'm sorry. Excuse me. We had this cart.",success,strong,anger,surprise
+537,"Yeah, but what if it's not? What if there    is a reason why we can't have a baby?","Yeah, but what if it's not? What if there is a reason why we can't have a disaster?",success,strong,fear,sadness
+539,"oh, oh, yeah, ok, thanks.","oh, oh, yeah, ok, whatever.",success,strong,joy,neutral
+541,I guess I was just so worried about having to...    come here and do... 'that'...,I guess I was just so worried about wanting to... come here and do... 'that'...,success,strong,sadness,sadness
+542,"What, you can do it in the parking lot of a Taco Bell, but you    can't do it at a doctor's office?","What, you can do it in the parking lot of a Taco Bell, but you can't do it at a doctor's dumpster?",success,strong,anger,surprise
+543,"It was a ""Wendy's!!    ""","It was a ""Nightmare's!!    """,success,strong,anger,joy
+544,"...and then Zana, just let one rip!!","...and then Zana, just let one giggle!!",success,strong,surprise,anger
+546,"Like you, I don’t even know where you work?","Like you, I don’t even know where you vacation?",success,strong,surprise,surprise
+551,"So, you stole my joke, and you stole my money.","So, you stole my applause, and you stole my money.",success,strong,anger,anger
+552,"Well, I was going to stick it in the ATM, but now I think I’ll show the sexy teller that I am a published writer.","Well, I was going to stick it in the ATM, but now I think I’ll hide the sexy teller that I am a published writer.",success,strong,neutral,neutral
+553,"Well, she is going to know that you stole the joke.","Well, she is going to know that you borrowed the joke.",success,strong,anger,anger
+554,"Oh, what are you going to do, follow me down there?","Oh, what are you going to do, ignore me down there?",success,strong,anger,surprise
+559,"Ah, Gunther, I can’t pay for this right now because I’m not working, so I’ve had to cut down on some luxuries like uh, payin’ for stuff.","Ah, Gunther, I can’t pay for this right now because I’m not working, so I’ve had to cut up on some luxuries like uh, payin’ for stuff.",success,strong,neutral,neutral
+567,Maybe I could be a waiter. Could I use the phone?,Maybe I could be a CEO. Could I use the phone?,success,strong,neutral,neutral
+570,"Okay uh, for now, temporarily, you can call me, Clint.","Okay uh, for now, temporarily, you can call me, Enemy.",success,strong,neutral,neutral
+575,"See you later, Gene.","See you never, Gene.",success,strong,neutral,neutral
+579,Welcome to Las Vegas.,Welcome to Last Vegas.,success,strong,neutral,neutral
+580,Thank you!  Enjoy your flight?,Curse you! Enjoy your flight?,success,strong,joy,joy
+581,"Yes, I did. Thank you very much, it was excellent.","Yes, I did. Thank you very much, it was terrible.",success,strong,joy,joy
+582,Hope you had a nice flight.,Doubt you had a nice flight.,success,strong,neutral,neutral
+583,"Ohh, it was the best!","Ohh, it was the worst!",success,strong,joy,joy
+585,"Umm, do health inspectors work on commission?","Umm, do health inspectors relax on commission?",success,strong,neutral,neutral
+589,"Rach, I told you everything I knew last night!","Rach, I told you everything I knew last never!",success,strong,anger,anger
+590,"Look, it's not that big of a deal, so Monica and Chandler are doing it.","Look, it's definitely that big of a deal, so Monica and Chandler are doing it.",success,strong,neutral,neutral
+591,I can't believe you would say that!,I can't doubt you would say that!,success,strong,sadness,surprise
+592,Sorry. Monica and Chandler are making love.,Congratulations. Monica and Chandler are making love.,success,strong,neutral,neutral
+595,Is he romantic with her?,Is he cold with her?,success,strong,joy,neutral
+602,They did it right there on the couch.,They did it right there on the street.,success,strong,neutral,neutral
+605,Who's he sleeping with?,Who's he arguing with?,success,strong,neutral,surprise
+606,"Oh, c'mon Dora, don't be mad...","Oh, c'mon Dora, don't be happy...",success,strong,neutral,neutral
+607,"I know we both said some things we didn't mean, but that doesn't mean we still don't love each other.","I know we both said some praises we didn't mean, but that doesn't mean we still don't love each other.",success,strong,neutral,sadness
+608,"Y'know, I feel like I've lost her..  Ba-!","Y'know, I feel like I've found her.. Ba-!",success,strong,joy,sadness
+609,"So you see, Molly, what people don't understand is that acting    is a discipline. It takes a lot of hard work.","So you see, Molly, what aliens don't understand is that acting is a discipline. It takes a lot of hard work.",success,strong,neutral,neutral
+611,"Oh, I didn't go to college.","Oh, I didn't go to paradise.",success,strong,neutral,sadness
+612,"No, where did you study acting?","No, where did you neglect acting?",success,strong,neutral,neutral
+613,Molly ... people don't study acting ...,Molly ... people don't avoid acting ...,success,strong,neutral,neutral
+614,"Molly, ah, do you mind giving us just a minute?","Molly, ah, do you enjoy giving us just a minute?",success,strong,neutral,neutral
+617,Will the stable boy never get the princess??,Will the stable boy always get the princess??,success,strong,sadness,sadness
+619,No ... the leather sticks to my ass.,No ... the leather glides to my ass.,success,strong,disgust,disgust
+620,"You know, this isn't fair.","You know, this isn't just.",success,strong,anger,sadness
+621,What makes you think that I'm just gonna sleep with her and then blow her off?,What makes you know that I'm just gonna sleep with her and then blow her off?,success,strong,anger,anger
+624,"Look, the truth is, I haven't felt this    way about anyone since Rachel, ok?","Look, the truth is, I haven't felt this way about everyone since Rachel, ok?",success,strong,sadness,neutral
+625,I didn't think I could ever love again.,I didn't think I could ever love never.,success,strong,sadness,sadness
+627,"Hi, is Molly here?","Hi, is trouble here?",success,strong,neutral,neutral
+628,"Yeah, come on in. Molly?","Yeah, leave on in. Molly?",success,strong,neutral,neutral
+630,"Ok ...  Well, uh, Joey, I guess    we have no problem.","Ok ... Well, uh, Joey, I guess we have no solution.",success,strong,neutral,neutral
+631,"It's like my favorite fairy tale come true!  The princess, the stable boy and the lesbian!","It's like my favorite fairy tale come untrue! The princess, the stable boy and the lesbian!",success,strong,joy,joy
+632,"And what’s cool is, the character is from Naples, right?","And what’s cool is, the character is from hell, right?",success,strong,joy,neutral
+634,My whole family’s from Naples!,My whole family’s from nowhere!,success,strong,joy,surprise
+635,"Oh that’s great! Okay, well I’ve heard everything I need to hear. I just need to uh, Leslie","Oh that’s terrible! Okay, well I’ve heard everything I need to hear. I just need to uh, Leslie",success,strong,surprise,joy
+642,Don’t you worry. I have nothing to hide.,Don’t you celebrate. I have nothing to hide.,success,strong,neutral,neutral
+644,One hundred percent natural!,One hundred percent artificial!,success,strong,joy,joy
+645,"I tell ya, that has never happened before.","I tell ya, that has never happened again.",success,strong,fear,surprise
+651,"Since I have been waiting four women, that’s four, one higher than the number of centimeters that I am dilated, have come and gone with their babies!","Since I have been waiting four women, that’s four, one higher than the number of centimeters that I am dilated, have come and gone with their disappointments!",success,strong,anger,anger
+655,And if you bring in one woman and she has her baby before me I’m going to sue you!,And if you bring in one woman and she has her baby after me I’m going to sue you!,success,strong,anger,anger
+656,"Not this hospital, I’m going to sue you!","Not this hospital, I’m going to praise you!",success,strong,anger,anger
+657,And my husband  he’s a lawyer!,And my husband he’s a criminal!,success,strong,anger,joy
+659,Go get back on that case honey!,Go get back on that case idiot!,success,strong,anger,anger
+660,I don’t think the next patient is very far along.,I don’t think the next patient is very close along.,success,strong,neutral,neutral
+664,They don’t look any bigger than me!,They don’t look any smaller than me!,success,strong,neutral,surprise
+665,"Well, maybe that’s because you’re closer to you. So you look bigger to you from where you are.","Well, maybe that’s because you’re farther to you. So you look bigger to you from where you are.",success,strong,anger,neutral
+670,Whoa!  I kinda liked it.,Ugh! I kinda liked it.,success,strong,joy,surprise
+674,Y'know you guys were a lot more supportive when I wanted to make denim furniture.,Y'know you guys were a lot more supportive when I regretted to make denim furniture.,success,strong,joy,neutral
+675,"No, Pheebs, listen, if you decide to do this, we’ll be supportive like crazy.","No, Pheebs, ignore, if you decide to do this, we’ll be supportive like crazy.",success,strong,neutral,neutral
+676,We just want you to think it through.,We just want you to ignore it through.,success,strong,neutral,neutral
+678,My mom never gave birth. Oh! But my birth mom did.,My mom always gave birth. Oh! But my birth mom did.,success,strong,neutral,anger
+684,"Umm, all righty, before we get started I just—I need you to state for the official record that you are in fact Frank Buffay.","Umm, all righty, before we get started I just—I want you to state for the official record that you are in fact Frank Buffay.",success,strong,neutral,neutral
+692,He doesn't speak much English.,He doesn't speak any English.,success,strong,neutral,neutral
+694,"So, um... where did Paolo come from?","So, um... where did nowhere come from?",success,strong,neutral,neutral
+695,"Oh... Italy, I think.","Oh... Italy, I doubt.",success,strong,neutral,neutral
+696,"No, I mean tonight, in the building. Suddenly. Into our lives.","No, I mean tonight, in the building. Suddenly. Into our routines.",success,strong,neutral,joy
+698,"That, that is funny... .... and Rachel keeps touching him.","That, that is uncomfortable... .... and Rachel keeps touching him.",success,strong,neutral,joy
+699,Alright. I looked all over the building and I couldn't find the kitty anywhere.,Unfortunately. I looked all over the building and I couldn't find the kitty anywhere.,success,strong,neutral,neutral
+700,"Oh, I found him. He was Paolo's cat.","Oh, I lost him. He was Paolo's cat.",success,strong,neutral,neutral
+701,Ah! Well! There you go! Last to know again! And I'm guessing... since nobody told me... this is Paolo.,Ah! Well! There you go! Last to know again! And I'm guessing... since nobody told me... this is stranger.,success,strong,joy,joy
+702,"Ah, Paolo, this is Phoebe.","Ah, Lucifer, this is Phoebe.",success,strong,neutral,neutral
+704,"Okay, where in the hell did you get that?!","Okay, where in the world did you get that?!",success,strong,surprise,surprise
+706,That cup is mine!,That cup is yours!,success,strong,anger,anger
+708,"All right, so are we not having dinner at all?","All right, so are we not having chaos at all?",success,strong,sadness,neutral
+710,Because I don't work at the Szechwan Dragon.,Because I don't work at the Szechwan Angel.,success,strong,neutral,neutral
+711,"You really, really need to get some sleep, honey.","You really, really need to get any sleep, honey.",success,strong,neutral,neutral
+718,"Rach, look!  Oh, hi! Where is my strong Ross Skywalker to come rescue me.  There he is.","Rach, look! Oh, hi! Where is my strong Ross Skywalker to abandon rescue me. There he is.",success,strong,joy,surprise
+722,I told you not to go down there!,I asked you not to go down there!,success,strong,anger,anger
+723,Well he made Rachel cry!,Well he made Rachel laugh!,success,strong,disgust,anger
+726,"Now Joey, you go down there and you suck up to him. I mean you suck like you’ve never sucked before!","Now Joey, you go down there and you suck up to him. I mean you suck like you’ve never sucked again!",success,strong,neutral,joy
+727,"All right! I’ll try! But if I can’t, you can stay with Chandler and I until you get settled.","All right! I’ll refuse! But if I can’t, you can stay with Chandler and I until you get settled.",success,strong,neutral,joy
+731,"So, he’s just a nice guy. You really think this Mark doesn’t want anything in exchange for helping him?","So, he’s just a nice guy. You really think this Mark doesn’t want anything in exchange for helping himself?",success,strong,joy,surprise
+732,"Well, I assume I’ll have to take showers with him, but y'know, that’s true of any job.","Well, I know I’ll have to take showers with him, but y'know, that’s true of any job.",success,strong,neutral,neutral
+734,"Well, my apartment isn’t there anymore, because I drank it.","Well, my apartment isn’t there forever, because I drank it.",success,strong,neutral,sadness
+735,Where’d you get too? We lost you after you opened up all the presents.,Where’d you get too? We found you after you opened up all the presents.,success,strong,neutral,sadness
+743,I can’t remember which sister.,I can’t forget which sister.,success,strong,sadness,neutral
+745,What’s wrong with you?,What’s right with you?,success,strong,anger,anger
+747,"Well, I-I got this blinding pain in my stomach when I was lifting weights before, then I uh passed out and uh, haven’t been able to stand up since.","Well, I-I got this blinding ease in my stomach when I was lifting weights before, then I uh passed out and uh, haven’t been able to stand up since.",success,strong,sadness,sadness
+748,"But um, I don’t think it’s anything serious.","But um, I don’t know it’s anything serious.",success,strong,neutral,neutral
+749,This sounds like a hernia. You have to—you-you—Go to the doctor!,This sounds like a vacation. You have to—you-you—Go to the doctor!,success,strong,surprise,surprise
+755,It’s got all of these layers.,It’s got all of these voids.,success,strong,neutral,neutral
+758,"then a little more custard, and then bananas, and then I just put some whipped cream on top!","then a little more custard, and then bananas, and then I just put some whipped cream on bottom!",success,strong,neutral,joy
+759,It tastes like feet!,It tastes like honey!,success,strong,disgust,surprise
+762,Does anyone else think David Copperfield is cute?,Does everyone else think David Copperfield is cute?,success,strong,neutral,neutral
+763,"No, but he told me, he thinks your a fox.","No, but he insisted me, he thinks your a fox.",success,strong,neutral,neutral
+764,"Welcome everybody, welcome to Amazing Discoveries!","Welcome everybody, welcome to Amazing Disasters!",success,strong,joy,joy
+765,"Oh, oh! It's on again!","Oh, oh! It's on never!",success,strong,joy,surprise
+766,"You guys, can we please not watch this all right.","You guys, can we please definitely watch this all right.",success,strong,disgust,sadness
+768,"Folks, has this ever happened to you.","Folks, has this ever unhappened to you.",success,strong,neutral,neutral
+769,"You go to the refrigerator to get a nice glass of milk,  and these darn cartons are so flingin'-flangin' hard to open.","You go to the refrigerator to get a nice glass of milk, and these darn cartons are so flingin'-flangin' easy to open.",success,strong,neutral,disgust
+770,"Oh, you said it Mike.  Aw! There's got to be a better way!","Oh, you said it Mike. Aw! There's got to be a better misstep!",success,strong,anger,joy
+771,And there is Kevin.,And there is problem.,success,strong,neutral,neutral
+774,There is a revolutionary new product that guarantees that you'll never have to open up milk cartons again. Meet the Milk Master 2000.,There is a revolutionary obsolete product that guarantees that you'll never have to open up milk cartons again. Meet the Milk Master 2000.,success,strong,neutral,joy
+777,"Keep in mind, he's never used this product before, you're gonna see how easy this is to do.","Keep in mind, he's never mastered this product before, you're gonna see how easy this is to do.",success,strong,neutral,neutral
+779,This works with any milk carton.,This works with no milk carton.,success,strong,neutral,neutral
+780,"Wow, it is easy.  Now, I can have milk everyday.","Wow, it is easy. Now, I can have milk never.",success,strong,surprise,joy
+781,"Well, you might want to tell him it sounds like his wife is  gay.","Well, you might want to tell him it knows like his wife is gay.",success,strong,neutral,neutral
+783,Good day for married people huh?,Bad day for married people huh?,success,strong,surprise,joy
+784,I’m sorry your husband cheated on you.,I’m glad your husband cheated on you.,success,strong,sadness,sadness
+785,I’m sorry your wife is gay. I guess women aren’t that great either.,I’m glad your wife is gay. I guess women aren’t that great either.,success,strong,sadness,sadness
+786,Try telling my wife that.,Avoid telling my wife that.,success,strong,sadness,neutral
+787,"Hey Ross, will you pass me that knife?","Hey Ross, will you drop me that knife?",success,strong,neutral,neutral
+788,I can't wait to be with you!,I can't dread to be with you!,success,strong,joy,joy
+789,I'll sneak over as soon as Ross picks up Ben.,I'll stroll over as soon as Ross picks up Ben.,success,strong,neutral,neutral
+790,I'll just tell Rachel I'm gonna be doing laundry for a couple of hours.,I'll just tell Rachel I'm gonna be doing laundry for a couple of minutes.,success,strong,neutral,neutral
+791,Laundry. Huh. Is that my new nickname?,Laundry. Wow. Is that my new nickname?,success,strong,joy,surprise
+792,"Awww, y'know what your nickname is, Mr. Big","Ugh, y'know what your nickname is, Mr. Big",success,strong,joy,joy
+794,I can’t believe I’m going to lose this job!,I can’t believe I’m going to keep this job!,success,strong,sadness,sadness
+795,Oh I’m so sorry man! Is there anything I can do?,Oh I’m so happy man! Is there anything I can do?,success,strong,sadness,sadness
+796,Yeah! Help me get this mini-fridge past the security guard.,Yeah! Help me get this mini-fridge past the friend guard.,success,strong,neutral,neutral
+801,"Hi, how are ya?","Hi, why are ya?",success,strong,neutral,neutral
+802,"Joey, Joey, I-I-I’ll g-get you your job back if you help me out.","Joey, Joey, I-I-I’ll g-get you your problem back if you help me out.",success,strong,neutral,anger
+805,What do you need?,What do you ignore?,success,strong,neutral,neutral
+808,And I too am just a love machine.,And I too am just a hate machine.,success,strong,neutral,joy
+810,"Oh, I thought this was your party and it turns out it’s a party for Howard. He's just the sweetest little man!","Oh, I thought this was your party and it turns out it’s a party for Howard. He's just the rudest little man!",success,strong,surprise,joy
+811,"See ya Phoebe! Oh and hey, thanks for chipping in!","See ya Phoebe! Oh and hey, blame for chipping in!",success,strong,joy,joy
+813,"Yeah, uh-huh, a 100 dollars.","Yeah, uh-huh, a 100 nothing.",success,strong,neutral,neutral
+814,Phoebe! I can't believe you gave them money! I thought you agreed it was totally unreasonable that they asked me for that money!,Phoebe! I can't doubt you gave them money! I thought you agreed it was totally unreasonable that they asked me for that money!,success,strong,surprise,surprise
+818,That's always fun to be.,That's always boring to be.,success,strong,joy,joy
+819,"Yeah, but you're making me look bad!","Yeah, but you're making me look great!",success,strong,anger,anger
+822,If anything I'm making you look better!,If anything I'm making you look worse!,success,strong,joy,joy
+823,They'll see you talking to me and that's--I'm a hit!,They'll see you talking to me and that's--I'm a flop!,success,strong,joy,joy
+828,Something to think about.,Something to ignore about.,success,strong,neutral,neutral
+829,"Yeah, okay, my bad.","Yeah, okay, my good.",success,strong,joy,sadness
+830,Here. I need to borrow some moisturizer.,Here. I need to borrow some sandpaper.,success,strong,neutral,neutral
+832,Whaddya think? Today's the big day!,Whaddya think? Today's the big disaster!,success,strong,joy,joy
+835,Where's Joey? His mom's on the phone.,Where's Joey? His mom's on the voicemail.,success,strong,neutral,neutral
+837,"C'mon, we're roommates!  My eyes!! My eyes!!","Seriously, we're roommates! My eyes!! My eyes!!",success,strong,disgust,anger
+841,"Hey, listen, I wanna borrow a coupla things, Aurora spent the night, I really wanna make her breakfast.","Hey, listen, I wanna give a coupla things, Aurora spent the night, I really wanna make her breakfast.",success,strong,neutral,neutral
+842,"Oh, you got the whole night, huh?","Oh, you got the whole night, ugh?",success,strong,surprise,surprise
+843,"Yeah, well, I only have twenty minutes until Ethan, so, y'know..","Yeah, well, I only have twenty years until Ethan, so, y'know..",success,strong,neutral,neutral
+844,"Ooh, do I sense a little bit of resentment?","Hooray, do I sense a little bit of resentment?",success,strong,surprise,sadness
+845,"No, no resentment, believe me, it's worth it.","No, no resentment, doubt me, it's worth it.",success,strong,neutral,neutral
+847,Y'know in a relationship you have these key moments that you know you'll remember for the rest of your life?,Y'know in a relationship you have these insignificant moments that you know you'll remember for the rest of your life?,success,strong,neutral,neutral
+852,"Hey Joey! Aww, you remembered even though you're a big star!","Hey Joey! Aww, you forgot even though you're a big star!",success,strong,joy,surprise
+853,"Aw, come on! It'll be years before I forget you!","Aw, come on! It'll be years before I cherish you!",success,strong,neutral,joy
+854,"Joey, what's it like on a movie set, huh?","Joey, what's it like on a movie wreck, huh?",success,strong,neutral,neutral
+856,Do you have a chair with your name on it?,Do you have a chair with your shame on it?,success,strong,neutral,neutral
+858,"Yeah, listen uh, I want you to make sure you tell Chandler that he couldn't have been more wrong!","Yeah, listen uh, I want you to make sure you tell Chandler that he couldn't have been more right!",success,strong,neutral,anger
+860,"I gotta go Monica, my uh, my sushi's here!","I gotta go Monica, my uh, my broccoli's here!",success,strong,neutral,joy
+862,"Everybody smile!  Okay, thanks a lot! Enjoy your stay at","Everybody frown! Okay, thanks a lot! Enjoy your stay at",success,strong,joy,joy
+863,"Wow, this is so cool, you guys. The entire city is blacked out!","Wow, this is so awful, you guys. The entire city is blacked out!",success,strong,surprise,joy
+864,"Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.","Mom denies it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.",success,strong,anger,neutral
+865,"Wow, you guys, this is big.","Ugh, you guys, this is big.",success,strong,surprise,surprise
+866,Pants and a sweater?,Pants and a bikini?,success,strong,anger,surprise
+868,Who am I gonna meet in a blackout?,Who am I gonna meet in a paradise?,success,strong,anger,sadness
+871,Could we talk about this later?,Could we argue about this later?,success,strong,anger,neutral
+873,Can I borrow the phone? I want to call my apartment and check on my grandma.  What's my number?,Can I steal the phone? I want to call my apartment and check on my grandma. What's my number?,success,strong,neutral,neutral
+882,"See, I told you they don’t swim.","See, I told you they don’t fly.",success,strong,neutral,neutral
+884,"Noo!  Oh, it’s okay, it’s okay, baby, baby, baby.","Yes! Oh, it’s okay, it’s okay, baby, baby, baby.",success,strong,fear,sadness
+885,"Me taking care of you is no problem, huh?","Me taking care of you is no pleasure, huh?",success,strong,neutral,neutral
+886,You guys feel safe.,You guys fear safe.,success,strong,neutral,neutral
+888,"Okay, I’m gonna take that spit bubble as, ""Yeah, I do!""","Okay, I’m gonna take that smile bubble as, ""Yeah, I do!""",success,strong,neutral,joy
+907,"Hey, why are you mopping your ceiling?","Hey, why are you mopping your floor?",success,strong,sadness,surprise
+910,"Yeah, she was bald, she’s not now.","Yeah, she was beautiful, she’s not now.",success,strong,neutral,neutral
+911,How could you not tell me that she has hair?,How could you not tell me that she has wings?,success,strong,surprise,surprise
+912,"I don’t know, I hardly ever say that about people.","I don’t know, I always ever say that about people.",success,strong,neutral,neutral
+913,"Ohh, well, this is just perfect!","Ohh, well, this is just terrible!",success,strong,anger,joy
+915,"Yeah, I said what was okay when I thought she was some weird bald chick. I mean, y'know, that girl has hair got","Yeah, I said what was okay when I thought she was some weird bald chick. I mean, y'know, that girl has baldness got",success,strong,anger,neutral
+916,"Well, maybe it won’t work out. Maybe Ross won’t like her personality.","Well, maybe it won’t work in. Maybe Ross won’t like her personality.",success,strong,sadness,sadness
+917,"Why, does she have a bad personality?","Why, does she have a bad talent?",success,strong,neutral,surprise
+918,"Oh no, Bonnie’s the best!","Oh no, Bonnie’s the worst!",success,strong,joy,anger
+921,"Do you have a minute? I’d like to talk to you about something I’m, I’m really uncomfortable talking about.","Do you have an eternity? I’d like to talk to you about something I’m, I’m really uncomfortable talking about.",success,strong,fear,neutral
+922,"Sure. What? About uh, you showering with your mom?","Sure. What? About uh, you arguing with your mom?",success,strong,surprise,surprise
+923,"I actually had a topic in mind! I’m, I’m kinda going through a dry spell, sex wise.","I actually had a problem in mind! I’m, I’m kinda going through a dry spell, sex wise.",success,strong,anger,neutral
+924,"Whoa, for like months?","Meh, for like months?",success,strong,surprise,surprise
+928,"Ow! My ass. Okay. Okay.  Oh, shhh!","Ow! My cushion. Okay. Okay. Oh, shhh!",success,strong,anger,disgust
+932,I have the lung capacity of a two year old.,I have the lung strength of a two year old.,success,strong,neutral,neutral
+933,Then why are you smoking?,Then why are you hugging?,success,strong,disgust,neutral
+935,"Honey, I was wondering....","Honey, I was certain....",success,strong,neutral,neutral
+937,"Do you still have that, um, Navy uniform?","Do you ever have that, um, Navy uniform?",success,strong,joy,neutral
+941,"You remember not having sex in high school, right?","You forget not having sex in high school, right?",success,strong,sadness,neutral
+945,"I mean do you have any fun, you know, fantasy type things?","I mean do you have no fun, you know, fantasy type things?",success,strong,neutral,neutral
+951,Hi. Y'know in England this car would be on the other side of the store.  Woo!,Hi. Y'know in England this car would be on the other side of the store. Ugh!,success,strong,joy,joy
+952,"Oh! Ohhhhh! Oh! Phoebe, come here. Aw, this is my new bed. You gotta feel this bad boy.","Oh! Ohhhhh! Oh! Phoebe, come here. Aw, this is my new bed. You gotta feel this great boy.",success,strong,joy,sadness
+953,"Eh, Monica it, it feels so weird, y'know, Chandler’s your friend...  Oh!","Eh, Monica it, it feels so awesome, y'know, Chandler’s your friend... Oh!",success,strong,surprise,sadness
+955,"Aw, all right take this bed, you can make other friends.","Aw, all right take this bed, you can make no friends.",success,strong,joy,neutral
+956,"You know, ever since I was little, I've been able to pick up quarters with my toes.","You know, ever since I was little, I've been able to pick up boulders with my toes.",success,strong,joy,neutral
+957,"Good for you.  Uh, quarters or rolls of quarters?","Good for you. Uh, quarters or debt of quarters?",success,strong,joy,neutral
+958,"By the way, Chandler. I cut you out of all my pictures. So if you want, I have a bag with just your heads.","By the way, Chandler. I cut you out of all my frames. So if you want, I have a bag with just your heads.",success,strong,anger,neutral
+961,"Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty.","Because you know, you could make little friends out of them, and you could use them in your theater of cruelty.",success,strong,anger,neutral
+965,"Well, I added the 'exactly like me' part...","Well, I removed the 'exactly like me' part...",success,strong,neutral,neutral
+968,"Well, I think it's perfect.","Well, I think it's terrible.",success,strong,joy,joy
+970,I can't remember the last time I got a girl to take care of my monkey.,I can't forget the last time I got a girl to take care of my monkey.,success,strong,sadness,neutral
+972,"Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used.","Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was first used.",success,strong,disgust,neutral
+973,"Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?","Car's waiting gone, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?",success,strong,neutral,neutral
+974,"No, just knowing you're gonna be there is enough.","No, just knowing you're gonna be there is insufficient.",success,strong,neutral,neutral
+975,"Alright, well, be good, I love you.","Alright, well, be good, I hate you.",success,strong,joy,joy
+976,You kissed my best Ross! ...Or something to that effect.,You kissed my worst Ross! ...Or something to that effect.,success,strong,anger,joy
+977,"O-kay. Look, it, it was stupid.","O-kay. Look, it, it was brilliant.",success,strong,sadness,disgust
+980,And I don't even know how it happened.,And I don't even know how it unraveled.,success,strong,sadness,surprise
+981,"I'm sorry, honey, I promise it will never happen again.","I'm indifferent, honey, I promise it will never happen again.",success,strong,sadness,sadness
+984,"Ah, the forbidden love of a man and his door.","Ah, the forbidden conflict of a man and his door.",success,strong,neutral,joy
+989,That’s not your regular dry cleaners.,That’s not your irregular dry cleaners.,success,strong,neutral,neutral
+990,"I know, but that creep that I went on that date with goes to there so I have to find a new one.","I know, but that sweetheart that I went on that date with goes to there so I have to find a new one.",success,strong,disgust,sadness
+994,The universe said I was going to meet a nice guy and that’s what they gave me?,The universe said I was going to meet a horrible guy and that’s what they gave me?,success,strong,anger,anger
+995,When I get up there I’m going to kick some ass.,When I get up there I’m going to kick some butt.,success,strong,anger,joy
+996,"Don’t worry Phoebe, you’re gonna meet someone. If I can meet a great guy, so can you.","Don’t celebrate, Phoebe, you’re gonna meet someone. If I can meet a great guy, so can you.",success,strong,neutral,neutral
+999,Are you kidding? This is where they get out stains! Okay? This is like,Are you serious? This is where they get out stains! Okay? This is like,success,strong,joy,surprise
+1000,"Oh, excuse me! I think you dropped s… Wow!","Oh, excuse me! I think you dropped s... Oops!",success,strong,surprise,surprise
+1002,"I’m sorry, it’s just that you’re so incredibly beautiful.","I’m sorry, it’s just that you’re so incredibly unattractive.",success,strong,surprise,joy
+1003,"Oh yeah well, I’m sorry about that too, but what are you going to do?","Oh yeah well, I’m glad about that too, but what are you going to do?",success,strong,neutral,sadness
+1004,"I hope you don’t think I’m crazy but I feel like I was meant to pick this up, do you believe in that kind of thing?","I hope you don’t doubt I’m crazy but I feel like I was meant to pick this up, do you believe in that kind of thing?",success,strong,joy,neutral
+1005,A little.   Now you’re talking.,A much. Now you’re talking.,success,strong,neutral,neutral
+1006,Would you like to go out and have a cup of coffee?,Would you like to go out and have a cup of medicine?,success,strong,neutral,neutral
+1008,"Ooh, an ink stain! Hey, can I watch how you get this out?","Ooh, an ink sparkle! Hey, can I watch how you get this out?",success,strong,joy,surprise
+1010,Monica! Stop throwing it so hard! We're on the same team!,Monica! Keep throwing it so hard! We're on the same team!,success,strong,anger,anger
+1018,I'm not a dropper!,I'm not a collector!,success,strong,anger,anger
+1019,"It's really a uh-uh three person game, y'know?","It's really a uh-uh three person solitude, y'know?",success,strong,neutral,neutral
+1020,It's throwing and catching!,It's throwing and dropping!,success,strong,anger,joy
+1027,"All right, well the place was closed. I’ll just copy it later.","All right, well the place was closed. I’ll just burn it later.",success,strong,neutral,neutral
+1030,"No-no-no-no-no-no-no-no… It’s okay, I mean I—look Rach, I know I scared you off with that whole Naked Thursday’s thing, but we don’t have to do that!","No-no-no-no-no-no-no-no... It’s okay, I mean I—look Rach, I know I scared you on with that whole Naked Thursday’s thing, but we don’t have to do that!",success,strong,neutral,anger
+1031,"Well, it would be easier to move just right across the hall. Wait a minute, unless you’re thinking about Naked Wednesday’s.","Well, it would be harder to move just right across the hall. Wait a minute, unless you’re thinking about Naked Wednesday’s.",success,strong,neutral,neutral
+1032,"Thursday’s clearly not good for ya, pick a day!","Thursday’s clearly not good for ya, pick a meeting!",success,strong,joy,anger
+1033,"So that’s two boxes of the Holiday Macaroons. On behalf of the Brown Birds of America, I salute you.","So that’s two boxes of the Holiday Macaroons. On behalf of the Brown Birds of America, I condemn you.",success,strong,joy,joy
+1034,"Just admit it Chandler, you have no backhand.","Just admit it Chandler, you have no talent.",success,strong,neutral,neutral
+1035,"Excuse me little one, I have a very solid backhand.","Excuse me little one, I have a very solid fumble.",success,strong,anger,neutral
+1036,Shielding your face and shrieking like a girl... is not a backhand.,Shielding your face and shrieking like a girl... is definitely a backhand.,success,strong,disgust,anger
+1037,I was shrieking... like a Marine.,I was whispering... like a Marine.,success,strong,neutral,anger
+1038,All right here. Watch me execute the three ‘P’s of championship play. Power.  Precision.  and penache.,All right here. Watch me fumble the three ‘P’s of championship play. Power. Precision. and penache.,success,strong,neutral,neutral
+1040,"Yeah, so, uh, so, uh, what's the deal with this father guy, I mean, if someone was havin' my baby somewhere, I'd wanna know about it, you know?","Yeah, so, uh, so, uh, what's the non-issue with this father guy, I mean, if someone was havin' my baby somewhere, I'd wanna know about it, you know?",success,strong,neutral,neutral
+1041,"Hey, Knick fan, am I interested in your views on fatherhood? Uh, no.","Hey, Knick fan, am I uninterested in your views on fatherhood? Uh, no.",success,strong,anger,neutral
+1044,"Good luck, and uh, take care, huh?","Good luck, and uh, take ignore, huh?",success,strong,sadness,neutral
+1045,You know what the Celtics problem is? They let the players run the team.,You know what the Celtics problem is? They let the players follow the team.,success,strong,neutral,neutral
+1046,"Oh, that is so not true.","Oh, that is so absolutely true.",success,strong,neutral,sadness
+1051,"Okay ladies, that ends today’s class, and let’s remember, let’s be safe out there.","Okay ladies, that ends today’s class, and let’s remember, let’s be reckless out there.",success,strong,neutral,neutral
+1052,It’s a great class.,It’s a terrible class.,success,strong,joy,joy
+1054,"Yeah, yeah, I was watching.","Yeah, yeah, I was ignoring.",success,strong,neutral,neutral
+1056,"Umm, about that-that-that last move where the woman tripped you and then pinned you to the floor, what-what-what-what would you do next?","Umm, about that-that-that last move where the woman tripped you and then pinned you to the floor, what-what-what-what would you do never?",success,strong,fear,neutral
+1057,"Well, she would take her keys and try to jam them","Well, she would leave her keys and try to jam them",success,strong,neutral,neutral
+1059,Who? Me the attacker?,Who? Me the defender?,success,strong,surprise,surprise
+1060,"I’m sorry Chandler, y’know you are such a sweet guy and I, I don’t want to hurt you.","I’m happy Chandler, y’know you are such a sweet guy and I, I don’t want to hurt you.",success,strong,sadness,sadness
+1061,"Oh, I wish there was something I can do to make you feel better.","Oh, I resent there was something I can do to make you feel better.",success,strong,sadness,sadness
+1064,"Well, it just hurts so bad. I uh","Well, it just soothes so bad. I uh",success,strong,sadness,sadness
+1069,"This actor friend and he would kill me if he thought I was doing this umm, but umm would it be possible for him to get an audition for your movie say on Thursday?","This actor friend and he would kill me if he knew I was doing this umm, but umm would it be possible for him to get an audition for your movie say on Thursday?",success,strong,fear,neutral
+1070,Absolutely! But you-you would really feel better about me rejecting you if your actor friend can audition for my movie?,Never! But you-you would really feel better about me rejecting you if your actor friend can audition for my movie?,success,strong,surprise,anger
+1075,Chandler sucks! He couldn’t have gotten this good!,Chandler rocks! He couldn’t have gotten this good!,success,strong,surprise,sadness
+1078,"Oh come on, by age seven kids have already seen orgies.  Was it just me?!","Oh come on, by age seven kids have already imagined orgies. Was it just me?!",success,strong,surprise,surprise
+1080,"Okay, I was thinking we should have a beautiful guest room, right?","Okay, I was thinking we should have a beautiful guest dungeon, right?",success,strong,neutral,neutral
+1081,With a mahogany sleigh bed and bedside tables with flowers on them all the time!,With a mahogany sleigh bed and bedside tables with flowers on them all the midnight!,success,strong,joy,anger
+1082,And we could have a roll top desk with comment cards on them so people could say how much they loved staying here!!,And we could have a roll top desk with comment cards on them so people could say how much they hated staying here!!,success,strong,joy,joy
+1083,"Okay, whatever, I really haven’t thought about it that much.","Okay, whatever, I really haven’t thought about it that any.",success,strong,neutral,neutral
+1084,"Well, I like that idea.","Well, I like that problem.",success,strong,joy,joy
+1086,"I was thinking maybe-maybe-maybe it could be a game room, y’know?","I was thinking maybe-maybe-maybe it could be a game dungeon, y’know?",success,strong,neutral,neutral
+1090,"Oh, I’m sorry. Of course I mean that. Interesting idea, umm, talk about it, but no.","Oh, I’m sorry. Of course I mean that. Ridiculous idea, umm, talk about it, but no.",success,strong,disgust,neutral
+1094,What do you have against the beautiful guest room?,What do you have for the beautiful guest room?,success,strong,anger,anger
+1095,"I don’t have anything against the beautiful guest room, especially since everybody we know lives about 30 seconds away!","I don’t have anything against the beautiful guest room, especially since everybody we know lives about 30 seconds nearby!",success,strong,anger,anger
+1096,Are you mocking me?,Are you admiring me?,success,strong,anger,anger
+1097,"No, I’m not mocking you,  or you beautiful guest room.","No, I’m definitely mocking you, or you beautiful guest room.",success,strong,neutral,neutral
+1098,"Y'know, I love doing crossword puzzles with you honey!","Y'know, I love doing crossword puzzles with you stranger!",success,strong,joy,joy
+1099,"Aww, me too. Now let's finish this and go to bed.","Ugh, me too. Now let's finish this and go to bed.",success,strong,joy,joy
+1100,"Okay! There's only one left, three letter word, not dog but","Okay! There's only one left, three novel word, not dog but",success,strong,neutral,neutral
+1102,Yes! You are so smart!  I love you.,Yes! You are so smart! I loathe you.,success,strong,joy,joy
+1103,I love you too.,I hate you too.,success,strong,joy,joy
+1107,This is so great! Now we can enter into doubles tournaments!,This is so terrible! Now we can enter into doubles tournaments!,success,strong,joy,joy
+1109,"Hey. Okay, I gave him another chance, but Tim has","Hey. Okay, I gave him another chance, but everyone has",success,strong,neutral,neutral
+1111,"No! No-no! He is totally incompetent. I called the chef who recommended him to me. He said, ""Ha-ha! Gotcha!""","No! No-no! He is totally brilliant. I called the chef who recommended him to me. He said, ""Ha-ha! Gotcha!""",success,strong,disgust,anger
+1112,"Okay. Okay, but you can’t fire him today.","Okay. Okay, but you can’t fire me today.",success,strong,neutral,neutral
+1118,"Then he comes over!  ""I’m so worried about you."" Uck! Be a man!","Then he comes over! ""I’m so worried about you."" Uck! Be a coward!",success,strong,disgust,anger
+1119,What? So now I’m not allowed to fire him?,What? So now I’m not allowed to fire myself?,success,strong,surprise,surprise
+1120,"You can’t fire him and dump him the same day, he’ll kill himself.","You can’t fire him and dump him the same day, he’ll kill everyone.",success,strong,sadness,sadness
+1122,"Are you kidding?! Another week with that sip, I’ll kill","Are you kidding?! Another week with that sip, I’ll hug",success,strong,disgust,anger
+1126,"Well, I-I guess I gotta go.","Well, I-I know I gotta go.",success,strong,sadness,neutral
+1128,"Well, just until we find an energy source to replace fuel.","Well, just until we find an energy sink to replace fuel.",success,strong,neutral,neutral
+1137,"I had to have one last kiss, and also-also you said that you were going to leave right after I got on the plane!","I had to have one last kiss, and also-also you said that you were going to leave right after I got on the home!",success,strong,sadness,anger
+1143,"Ohh, my new assistant is working out, yes.","Ohh, my old assistant is working out, yes.",success,strong,neutral,joy
+1144,Was she happy you gave her the job?,Was she unhappy you gave her the job?,success,strong,neutral,neutral
+1145,"Oh, my-my new assistant was very happy that I hired my new assistant.","Oh, my-my new assistant was very unhappy that I hired my new assistant.",success,strong,neutral,joy
+1148,"Can you, can you hang on a second?","Can you, can you hang on an eternity?",success,strong,neutral,neutral
+1149,It’s the producers over at Mac and C.H.E.E.S.E.,It’s the producers over at Broccoli and C.H.E.E.S.E.,success,strong,neutral,neutral
+1150,can you excuse me for a minute?,can you detain me for a minute?,success,strong,neutral,neutral
+1152,I was just looking over next week’s script.,I was just looking over next week’s disaster.,success,strong,neutral,neutral
+1154,Like they’re taking it off the air?,Like they’re taking it off the streaming?,success,strong,surprise,surprise
+1156,"All right, see you Monday.","All right, see you never.",success,strong,neutral,neutral
+1157,We’re not even shootin’ them anymore?!!,We’re not even shootin’ them ever?!!,success,strong,surprise,anger
+1162,Why would they do that?! It was a good show right?!,Why would they do that?! It was a terrible show right?!,success,strong,surprise,anger
+1163,It’s so secluded up here.,It’s so crowded up here.,success,strong,neutral,neutral
+1165,I feel like we’re the only two people in the world.  Oops. Sorry.,I feel like we’re the many two people in the world. Oops. Sorry.,success,strong,joy,sadness
+1166,What’s the matter honey? Did you see a little mouse?,What’s the matter honey? Did you see a little puppy?,success,strong,neutral,surprise
+1168,"Honey, we don’t have any bears here.","Honey, we don’t have any unicorns here.",success,strong,neutral,neutral
+1173,I came with Paul!,I left with Paul!,success,strong,anger,anger
+1174,"Yeah, I recognize the ankles!","Yeah, I recognize the strangers!",success,strong,neutral,joy
+1176,Here you go honey!,Here you go jerk!,success,strong,joy,joy
+1179,What the hell was that?!,What the heck was that?!,success,strong,anger,surprise
+1182,"Perhaps. Now I’m curious, at what point during those girlish screams would you have begun to","Perhaps. Now I’m curious, at what end during those girlish screams would you have begun to",success,strong,neutral,neutral
+1184,"I’m sorry I had to take such drastic measures to make my point, but I—look, I just want you guys to be safe.","I’m glad I had to take such drastic measures to make my point, but I—look, I just want you guys to be safe.",success,strong,neutral,sadness
+1187,Okay. (Goes over and fluffs up the pillows on the couch.,Okay. (Goes over and fluffs up the rocks on the couch.,success,strong,neutral,neutral
+1190,Yes! It’s flown into your blouse and you’d better undo your buttons lest it sting you!,Yes! It’s flown into your blouse and you’d worse undo your buttons lest it sting you!,success,strong,anger,anger
+1191,I think I know what’s going on here.,I doubt I know what’s going on here.,success,strong,disgust,neutral
+1193,"Look, I know it must be hard that your wife is a lesbian, but it’s wrong. You’re married.","Look, I know it must be hard that your wife is a lesbian, but it’s right. You’re married.",success,strong,disgust,sadness
+1194,I totally understand.  Can I,I totally misunderstand. Can I,success,strong,neutral,neutral
+1201,Show 'em how it's done.,Show 'em if it's done.,success,strong,neutral,neutral
+1204,"Ohh, God, nobody likes him, and he’s so cheap, he’d never fly to London in a million years.","Ohh, God, everyone likes him, and he’s so cheap, he’d never fly to London in a million years.",success,strong,disgust,sadness
+1209,"If anyone asks, we’ll just say Ben addressed them.  Oh! So you invited Rachel then?","If anyone ignores, we’ll just say Ben addressed them. Oh! So you invited Rachel then?",success,strong,surprise,neutral
+1214,"Wait-wait-wait, do you, do you think, maybe we shouldn’t invite her?","Wait-wait-wait, do you, do you know, maybe we shouldn’t invite her?",success,strong,fear,neutral
+1215,"Oh, no-no, y’know I absolutely adore Rachel it’s just that, well it might be a awkward for you.","Oh, no-no, y’know I absolutely adore Rachel it’s just that, well it definitely is a awkward for you.",success,strong,sadness,neutral
+1223,Hey! So how was the doctor?,Hey! So why was the doctor?,success,strong,neutral,joy
+1226,"Oh hey, show them the picture of your uterus.","Oh hey, show them the scar of your uterus.",success,strong,neutral,neutral
+1229,"Oh no, I know I couldn’t see it either at first, but it’s right umm…  Ross, I lost it again.","Oh no, I know I couldn’t see it either at first, but it’s right umm... Ross, I found it again.",success,strong,joy,sadness
+1231,The patient I’m looking for has a broken leg and is in a wheelchair.,The villain I’m looking for has a broken leg and is in a wheelchair.,success,strong,neutral,neutral
+1232,"And umm, he’s like early to mid-thirties, very attractive.","And umm, he’s like late to mid-thirties, very attractive.",success,strong,neutral,neutral
+1233,I think I know who you’re talking about.,I doubt I know who you’re talking about.,success,strong,neutral,neutral
+1234,"Oh yay! Great! Okay, what room number is he in?","Oh yay! Terrible! Okay, what room number is he in?",success,strong,joy,joy
+1235,"I’m sorry, that information is restricted to hospital staff","I’m sorry, that help is restricted to hospital staff",success,strong,neutral,neutral
+1236,"Uh, she’s with me.  Dr. Drake Remoray.","Uh, she’s with me. Dr. Drake Assistant.",success,strong,neutral,neutral
+1238,Remoray. It’s Portuguese. We need that information. I’m a doctor.,Celebration. It’s Portuguese. We need that information. I’m a doctor.,success,strong,neutral,neutral
+1239,A doctor at this hospital?,A doctor at this circus?,success,strong,surprise,surprise
+1240,Damnit woman we’re losing precious time! Now do you want this man’s blood on your head?,Damnit woman we’re losing precious leisure! Now do you want this man’s blood on your head?,success,strong,anger,anger
+1243,It is absolutely essential that you tell me what room the man my assistant described is staying in.,It is absolutely unimportant that you tell me what room the man my assistant described is staying in.,success,strong,neutral,neutral
+1244,"He’s a patient of mine, I’ve been treating him for years!","He’s a patient of mine, I’ve been treating him for days!",success,strong,neutral,anger
+1245,He’s in room 816.,He’s in jail 816.,success,strong,neutral,neutral
+1248,And what is his name?,And what is our name?,success,strong,neutral,neutral
+1252,Rachel was just helping me out. My head got all sunburned.,Rachel was just helping me out. My head got all protected.,success,strong,neutral,sadness
+1255,"Oh, you’re welcome a million.","Oh, you’re sorry a million.",success,strong,joy,joy
+1267,"He’s not gonna make it, he’s stuck in Chicago.","He’s not gonna fail it, he’s stuck in Chicago.",success,strong,sadness,sadness
+1268,"Ohh, man! Chicago, is sooo lucky!","Ohh, man! Chicago, is incredibly lucky!",success,strong,joy,joy
+1269,"Stupid, useless Canadian money!","Stupid, useless Canadian gem!",success,strong,anger,anger
+1270,"Rachel, one of your customers seems to have left his billfold. A Joshua Bergen.","Rachel, one of your customers seems to have left his billfold. A Joshua Nightmare.",success,strong,neutral,neutral
+1277,"I’m full, and yet I know if I stop eating this, I’ll regret it.","I’m starving, and yet I know if I stop eating this, I’ll regret it.",success,strong,neutral,neutral
+1286,"Oh really? Uh, Monica said she had a date at 9:00.","Oh really? Uh, Monica said she had a cancellation at 9:00.",success,strong,surprise,surprise
+1289,After she gave me that big speech?!,After she gave me that big apology?!,success,strong,surprise,anger
+1291,I think she’s trying to pull a fast one on Big Daddy!,I think she’s trying to pull a fast one on Big Enemy!,success,strong,anger,anger
+1292,"Okay, is this lamp in the same place?","Okay, is this dumpster in the same place?",success,strong,neutral,neutral
+1293,Who cares? I repel women.,Who cares? I attract women.,success,strong,disgust,anger
+1294,No-no-no-no-no-no-no-no!!! You can't come in here! R-r-r-r-Ross is naked.,No-no-no-no-no-no-no-no!!! You can't leave in here! R-r-r-r-Ross is naked.,success,strong,surprise,anger
+1297,"Yeah well, I’m-I’m a slut.","Yeah well, I’m-I’m a prude.",success,strong,sadness,anger
+1303,"Rachel! Well, you-you’re not at home, you’re-you’re-you’re right here.","Rachel! Well, you-you’re definitely at home, you’re-you’re-you’re right here.",success,strong,surprise,anger
+1304,"Yeah I know, and I bet you thought it would be weird. But it’s not!","Yeah I know, and I bet you thought it would be normal. But it’s not!",success,strong,joy,joy
+1306,That part was perfect for me! I can't believe I didn't get it!,That part was terrible for me! I can't believe I didn't get it!,success,strong,anger,joy
+1309,You should make something happen for yourself.,You should make something stall for yourself.,success,strong,neutral,neutral
+1310,"Y'know, like-like write a play.","Y'know, like-like write a destroy.",success,strong,neutral,neutral
+1314,"Come on Ross be realistic, y'know? If I did write something, what are the chances I could get those guys to star in it?","Come on Ross be realistic, y'know? If I did write something, what are the certainty I could get those guys to star in it?",success,strong,sadness,neutral
+1315,"Wait a second, I could star in it!","Wait a second, I could hide in it!",success,strong,joy,joy
+1321,"Yeah, I'll make up a schedule and make sure you stick to it.","Yeah, I'll make up a mess and make sure you stick to it.",success,strong,neutral,neutral
+1322,"And plus, it'll give me something to do.","And plus, it'll take me something to do.",success,strong,neutral,neutral
+1323,"Soo, ah, Eric, what kind of photography do ya do?","Soo, ah, Eric, what kind of destruction do ya do?",success,strong,neutral,neutral
+1324,"Oh, mostly fashion, so there may be models here from time to time, I hope that’s cool.","Oh, mostly disorder, so there may be models here from time to time, I hope that’s cool.",success,strong,neutral,neutral
+1325,"Yes, that is cool. Because I have models here y'know......never.","Yes, that is cool. Because I have monsters here y'know......never.",success,strong,neutral,neutral
+1326,"Oh, yeah, during the summer, I spend most weekends at my sister’s beach house, which you are welcome to use by the way.","Oh, yeah, during the summer, I spend most weekends at my sister’s beach garage, which you are welcome to use by the way.",success,strong,neutral,neutral
+1327,"Although, I should probably tell you, she’s a porn star.","Because, I should probably tell you, she’s a porn star.",success,strong,neutral,neutral
+1328,"Well, listen I ah, still have one more person to ah meet, but unless it turns out to be your sister, I think you’re chances are pretty good.","Well, listen I ah, still have one more person to ah avoid, but unless it turns out to be your sister, I think you’re chances are pretty good.",success,strong,neutral,neutral
+1330,"As bad as that went, I actually enjoyed myself. I think that I’m going to apologize for all of the stupid things I do.","As bad as that went, I actually regretted myself. I think that I’m going to apologize for all of the stupid things I do.",success,strong,neutral,joy
+1332,I would really love it if I could do both.,I would really love it if I could do neither.,success,strong,neutral,joy
+1333,"All right, I…I have to ask.","All right, I...I have to demand.",success,strong,sadness,neutral
+1337,"Well, you broke up with Julie Grath! How much weight could she have gained?","Well, you broke up with Julie Athlete! How much weight could she have gained?",success,strong,anger,surprise
+1338,A hundred and forty-five pounds.,A hundred and forty-five pennies.,success,strong,disgust,neutral
+1341,"Now wait a minute, you be nice! All right? I didn’t bring you here so you can ambush her.","Now wait a minute, you be mean! All right? I didn’t bring you here so you can ambush her.",success,strong,anger,anger
+1347,"You invite my brother, you invite my whole family, and not me?!","You invite my brother, you invite my whole family, and definitely me?!",success,strong,anger,anger
+1350,What could I have possibly done?!,What could I have impossibly done?!,success,strong,anger,surprise
+1352,I believe you know my husband.,I believe you know my enemy.,success,strong,neutral,neutral
+1354,Hey ladies! What are you in here for?,Hey jerks! What are you in here for?,success,strong,neutral,surprise
+1356,"Gary, I'm here to report a crime.","Gary, I'm here to report an award.",success,strong,neutral,neutral
+1358,It is a crime that you and I don't spend more time together.,It is a delight that you and I don't spend more time together.,success,strong,neutral,anger
+1360,"Well, I heard that you thinking about asking Phoebe to move in with you and I thought maybe, we should have a talk.","Well, I heard that you thinking about asking Phoebe to move in with you and I thought maybe, we should have a fight.",success,strong,neutral,neutral
+1363,"Uh, are you crazy? Are you insane? If you live with Phoebe, you two are gonna be y'know, live-living together!","Uh, are you crazy? Are you insane? If you live with Phoebe, you two are gonna be y'know, live-living apart!",success,strong,surprise,anger
+1364,"Yeah, I-I considered that. I just know it would make me happy.","Yeah, I-I considered that. I just know it would make me miserable.",success,strong,neutral,joy
+1367,"Hey! Oh listen, I was just clearing some space for your stuff.","Hey! Oh ignore, I was just clearing some space for your stuff.",success,strong,joy,neutral
+1368,"Oh thanks, but listen, I was just at Monica’s and she and Chandler had a big fight and they’re not moving in.","Oh whatever, but listen, I was just at Monica’s and she and Chandler had a big fight and they’re not moving in.",success,strong,sadness,neutral
+1370,"No-no, they just had a big blowout over what to do with my room.","No-no, they just had a big discussion over what to do with my room.",success,strong,neutral,anger
+1371,What?! Over a stupid room!,What?! Over a stupid gift!,success,strong,surprise,surprise
+1372,"Yeah, I feel kinda bad for them, but I’m also really psyched ‘cause I don’t have to move in here!","Yeah, I feel kinda bad for them, but I’m also really disheartened ‘cause I don’t have to move in here!",success,strong,joy,joy
+1373,"Oh no, yeah no, that part’s great!","Oh no, yeah no, that part’s terrible!",success,strong,joy,joy
+1375,"Where are you guys going? Come on, one more game!","Where are you guys going? Come on, one more nap!",success,strong,surprise,anger
+1376,"Uh, it's 2:30 in the morning!","Uh, it's 2:30 in the afternoon!",success,strong,sadness,surprise
+1378,You guys are always hanging out in my apartment!,You guys are always hanging out in my mansion!,success,strong,anger,anger
+1389,"Honey, honey, people are looking.","Honey, honey, people are ignoring.",success,strong,sadness,neutral
+1391,"Yeah, um, I’m, I’m leaving now.","Yeah, um, I’m, I’m staying now.",success,strong,sadness,sadness
+1397,Yeah I know what I wanted to ask you.,Yeah I know what I wanted to ignore you.,success,strong,neutral,neutral
+1398,"Um, can you roll your tongue?","Um, can you roll your wrist?",success,strong,neutral,neutral
+1399,"Because I can, and my Mom couldn’t, and I thought y'know, I figured that was something I got from our Dad.","Because I can, and my Mom couldn’t, and I thought y'know, I doubted that was something I got from our Dad.",success,strong,neutral,neutral
+1404,Where there is no fear of commitment.,Where there is no fear of freedom.,success,strong,neutral,neutral
+1406,"Well, I've never been through the tunnel myself, 'cause as I understand it, you're not allowed to go through with more than one girl in the car, right.","Well, I've always been through the tunnel myself, 'cause as I understand it, you're not allowed to go through with more than one girl in the car, right.",success,strong,neutral,neutral
+1407,"But, it seems to me it's pretty much like anything else, you know, face your fear.","But, it seems to me it's pretty nothing like anything else, you know, face your fear.",success,strong,neutral,neutral
+1408,"It have a fear of heights, you go to the top of the building!","It have a fear of ground, you go to the top of the building!",success,strong,fear,neutral
+1411,"In this case, you have a fear of commitment, so I say you go in there and be the most committed guy there ever was.","In this case, you have a fear of commitment, so I say you go in there and be the most uncommitted guy there ever was.",success,strong,neutral,neutral
+1412,"Amazingly, that makes sense.","Amazingly, that makes nonsense.",success,strong,joy,neutral
+1414,"Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!","Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the safety!",success,strong,joy,anger
+1418,Hi! Look! I got our pictures developed from Rockefeller Center.,Hi! Look! I got our trash developed from Rockefeller Center.,success,strong,joy,joy
+1419,"Oh great! Hey-hey Joey, do you want to check out pictures of me and Mona ice skating?","Oh terrible! Hey-hey Joey, do you want to check out pictures of me and Mona ice skating?",success,strong,joy,joy
+1421,Hey where-where are the pictures that creepy pretzel vendor took of us together?,Hey where-where is the trash that creepy pretzel vendor took of us together?,success,strong,neutral,neutral
+1423,I’m missin’ picture time?!,I’m missin’ picture chaos?!,success,strong,joy,anger
+1427,That is a good one!,That is a terrible one!,success,strong,joy,joy
+1428,"Wow, it looks like a, like a holiday card y’know, with the tree in the middle and the skaters and the snow.","Ugh, it looks like a, like a holiday card y’know, with the tree in the middle and the skaters and the snow.",success,strong,joy,surprise
+1431,Together? Like-like to people?,Together? Like-like to enemies?,success,strong,surprise,surprise
+1432,"Yeah, y’know. Happy holidays from Mona and Ross. It’ll be cute, okay?","Yeah, y’know. Happy holidays from enemies and Ross. It’ll be cute, okay?",success,strong,joy,neutral
+1434,"Oh, I gotta get to work. So call me later?","Oh, I gotta get to work. So call me never?",success,strong,neutral,neutral
+1437,"I mean, I don’t feel like I even have a girlfriend anymore.","I mean, I don’t feel like I even have a girlfriend anytime.",success,strong,anger,sadness
+1442,"Oh my God. I cannot keep having this same fight with you Ross! Look, urrgh, maybe we should take a break.","Oh my God. I must keep having this same fight with you Ross! Look, urrgh, maybe we should take a break.",success,strong,sadness,anger
+1445,No. A break from us.,No. A reunion from us.,success,strong,sadness,neutral
+1446,"Bing! We’re all set for tonight, 8 o’clock.","Ugh! We’re all set for tonight, 8 o’clock.",success,strong,joy,joy
+1451,It’s the semi-finals…of her…botchy ball tournament.,It’s the semi-finals...of her...botchy ball funeral.,success,strong,neutral,neutral
+1456,"Good God Bing I…well I can’t say I’m altogether surprised, I saw the way she looked at you, and there was no love there.","Good God Bing I...well I can’t say I’m altogether shocked, I saw the way she looked at you, and there was no love there.",success,strong,sadness,surprise
+1457,"And the way she looked at me, pure lust.","And the way she looked at me, indifference lust.",success,strong,joy,joy
+1458,Y’know what would really help me through this tough time is choking something. Can I choke ya?,Y’know what would really hinder me through this tough time is choking something. Can I choke ya?,success,strong,anger,neutral
+1459,"Bing my boy, we’re gonna get you over this.","Bing my boy, we’re gonna get you under this.",success,strong,neutral,anger
+1460,"Now here’s the plan, grab your coat, we’re going to a strip club.","Now here’s the disaster, grab your coat, we’re going to a strip club.",success,strong,joy,neutral
+1461,"Oh no-no-no, Monica would freak.  But to hell with that bitch.","Oh no-no-no, Monica would freak. But to hell with that angel.",success,strong,anger,anger
+1463,"It's    okay, Emma, you stay asleep.","It's okay, Emma, you stay awake.",success,strong,neutral,neutral
+1467,"Well, I heard Emma stirring, so I came to make sure she could    reach Hugsy.","Well, I heard Emma stirring, so I came to make sure she could block Hugsy.",success,strong,neutral,neutral
+1468,"Oh, oh thanks. Alright well, now that I'm up I'm going to go    to the bathroom.","Oh, oh ugh. Alright well, now that I'm up I'm going to go to the bathroom.",success,strong,neutral,neutral
+1469,There you go sweetie...     This isn't over.,There you go sweetie... This is over.,success,strong,neutral,anger
+1473,"Maybe he’s intimated by really smart, strong, successful women.","Maybe he’s inspired by really smart, strong, successful women.",success,strong,neutral,neutral
+1477,"The only person that should feel awkward is you, and you didn’t tell him not to call me, did you?","The only person that should feel comfortable is you, and you didn’t tell him not to call me, did you?",success,strong,anger,neutral
+1478,"Because if you feel uncomfortable with your friend dating someone you work for, there are always ways to fix...that.","Because if you feel uncomfortable with your friend dating someone you live for, there are always ways to fix...that.",success,strong,anger,neutral
+1479,And you’re upset because you didn’t make your best friend cry?,And you’re happy because you didn’t make your best friend cry?,success,strong,sadness,anger
+1480,"I mean, all I’m asking for is just a little emotion!","I mean, all I’m asking for is just a little indifference!",success,strong,anger,anger
+1481,Is that too much to ask after six years?!,Is that too much to ask after six minutes?!,success,strong,anger,surprise
+1484,I mean do we not have as much fun?!,I mean do we not have as much boredom?!,success,strong,anger,anger
+1485,Don’t I deserve a few tears?!!,Don’t I regret a few tears?!!,success,strong,sadness,anger
+1486,"I mean we-we told Joey, he cried his eyes out!","I mean we-we told Joey, he cried his eyes in!",success,strong,sadness,anger
+1488,I did not cry my eyes out!!,I did not cry my eyes in!!,success,strong,anger,anger
+1490,It’s like the end of an era!,It’s like the beginning of an era!,success,strong,sadness,sadness
+1492,"Okay, I gotta ask, who calls us that?!","Okay, I gotta ignore, who calls us that?!",success,strong,anger,surprise
+1495,"Well it turns out she ah, she wants to get back together with me.","Well it claims out she ah, she wants to get back together with me.",success,strong,neutral,neutral
+1496,"Oh, I found it!","Oh, I lost it!",success,strong,joy,surprise
+1499,"Oh, thank you.  Hey, hey.  Rachel!!!!","Oh, curse you.  Hey, hey.  Rachel!!!!",success,strong,joy,joy
+1501,"Yeah, oh hey, you are right on time.","Yeah, oh hey, you are right on late.",success,strong,neutral,neutral
+1502,So what do you say? Can I be your girlfriend again?,So what do you ignore? Can I be your girlfriend again?,success,strong,neutral,joy
+1505,"Ooh! I'm sorry! I think, I THINK, that may have missed the table!","Ugh! I'm sorry! I think, I THINK, that may have missed the table!",success,strong,joy,surprise
+1511,Y’know I don’t understand why they didn’t cry. It was a beautiful speech.,Y’know I don’t understand why they didn’t cry. It was a horrible speech.,success,strong,sadness,joy
+1514,"All that stuff you said about true love, you were right, I mean, we did learn a lot from Mom and Dad!","All that stuff you said about true love, you were right, I mean, we did learn a lot from Mom and strangers!",success,strong,joy,anger
+1515,And that picture of Chi-Chi with her mischievous grin.,And that picture of Chi-Chi with her mischievous frown.,success,strong,neutral,joy
+1517,"Ohh, yeah she really would’ve wanted to be there.","Ohh, yeah she really would’ve dreaded to be there.",success,strong,sadness,neutral
+1521,You forget how many great songs Heart had.,You forget how many terrible songs Heart had.,success,strong,neutral,joy
+1523,"You know, Barracuda was the first song I learned to play on the keyboard.","You know, Barracuda was the first song I forgot to play on the keyboard.",success,strong,neutral,neutral
+1524,"So, you heard it, you repeated it, so that must mean you wrote it.","So, you heard it, you ignored it, so that must mean you wrote it.",success,strong,neutral,neutral
+1527,And monkeys can’t write out prescriptions.,And monkeys can’t draw out prescriptions.,success,strong,neutral,neutral
+1528,You are not allowed to laugh at my joke.,You are definitely allowed to laugh at my joke.,success,strong,anger,anger
+1529,"Your joke? Well, I think ‘the Hef’ would disagree, which is why he sent me a check for one hundred ah-dollars.","Your insult? Well, I think ‘the Hef’ would disagree, which is why he sent me a check for one hundred ah-dollars.",success,strong,neutral,anger
+1530,I can’t find garbage bags!,I can’t find garbage treasures!,success,strong,anger,anger
+1531,"Oh, I think I saw some in here.","Oh, I think I saw none in here.",success,strong,neutral,neutral
+1533,"I don’t know! But maybe if we keep that drawer shut, it’ll die.","I don’t know! But maybe if we keep that window shut, it’ll die.",success,strong,disgust,neutral
+1534,I can’t believe we’re living here!,I can’t doubt we’re living here!,success,strong,sadness,surprise
+1535,You still haven’t told Rachel you weren’t really  proposing?,You still haven’t told Rachel you weren’t really breaking?,success,strong,surprise,surprise
+1536,"No! She had the ring on, she seemed so excited, and then she  took her breast out.","No! She had the ring on, she seemed so uninterested, and then she took her breast out.",success,strong,anger,joy
+1538,I didn’t look at it. Stupid baby’s head was blocking most of  it.,I didn’t look at it. Adorable baby’s head was blocking most of it.,success,strong,anger,anger
+1540,"Look, it’s not that easy. She said she wanted to marry me. I  don’t want to hurt her.","Look, it’s not that easy. She said she wanted to leave me. I don’t want to hurt her.",success,strong,sadness,sadness
+1541,"Okay, look, just do it gently.","Okay, look, just do it harshly.",success,strong,neutral,neutral
+1544,I-I’ll go tell her now before Ross  finds out and I’ll be gentle.,I-I’ll go deceive her now before Ross finds out and I’ll be gentle.,success,strong,neutral,neutral
+1548,Two people screwing in there  if you want to check that out.,Two people talking in there if you want to check that out.,success,strong,neutral,surprise
+1549,"Okay, umm, it's this tragic love story between Cathy and Heathcliff and umm, it takes place on like these really creepy mores in England.","Okay, umm, it's this tragic love joke between Cathy and Heathcliff and umm, it takes place on like these really creepy mores in England.",success,strong,sadness,neutral
+1552,"Umm, well I would have to say that it's a, it's tragic love story.","Umm, well I would have to say that it's a, it's tragic love comedy.",success,strong,neutral,neutral
+1553,"Well, that's sort of a given, but yes. Anyone else?","Well, that's sort of a given, but yes. Nobody else?",success,strong,neutral,neutral
+1554,"Oh-oh-oh, symbolism! And uh, the-the uh, wildness of the mores, which","Oh-oh-oh, ignorance! And uh, the-the uh, wildness of the mores, which",success,strong,joy,joy
+1555,Excellent! What Rachel has shrewdly observed here,Terrible! What Rachel has shrewdly observed here,success,strong,joy,joy
+1556,You completely stole my answer!,You barely stole my answer!,success,strong,anger,joy
+1557,"Well, honey that was pretty obvious.","Well, honey that was pretty obscure.",success,strong,sadness,neutral
+1558,Well how would you know?! You didn't even read it!,Well how would you know?! You didn't ever read it!,success,strong,anger,anger
+1559,What do you think? You in the blue shirt.,What do you ignore? You in the blue shirt.,success,strong,neutral,neutral
+1560,"I think that uh, yours is a question with many answers.","I think that uh, mine is a question with many answers.",success,strong,neutral,neutral
+1561,Would ya care to venture one?,Would ya ignore to venture one?,success,strong,neutral,neutral
+1563,Are you just repeating what I'm saying?,Are you just repeating what I'm ignoring?,success,strong,anger,surprise
+1564,"All right, let's move on.","All right, let's stay on.",success,strong,neutral,neutral
+1567,"And-and when she comes in hopefully, she won’t recognise you because, well, why would she?","And-and when she comes in unfortunately, she won’t recognise you because, well, why would she?",success,strong,neutral,neutral
+1569,"You be Mr. Gonzalez, and I’ll be uh, Mr. Wong.","You be Mr. Villain, and I’ll be uh, Mr. Wong.",success,strong,neutral,neutral
+1571,Did anybody call for security?,Did nobody call for security?,success,strong,neutral,neutral
+1574,Where’s my ring? My dead grandmother’s wedding ring? Where is it? Where is it?,Where’s my ring? My beloved grandmother’s wedding ring? Where is it? Where is it?,success,strong,fear,sadness
+1575,"Way to be cool, man.","Failure to be cool, man.",success,strong,neutral,joy
+1576,What’s he talking about?,What’s he ignoring about?,success,strong,neutral,surprise
+1578,"Wait, you guys think I stole some ring?","Wait, you guys think I stole some medal?",success,strong,surprise,surprise
+1579,We know you took so just-just save yourself the time and confess!,We know you took so just-just save yourself the time and deny!,success,strong,anger,anger
+1582,"Look, I don’t need to steal some stupid ring, all right?","Look, I don’t need to steal some precious ring, all right?",success,strong,anger,anger
+1583,"I make $1,600 a week doing what I do; any of you guys make that?","I make $1,600 a week doing what I do; none of you guys make that?",success,strong,anger,neutral
+1586,Hell yeah! I’ll marry you!,Hell yeah! I’ll leave you!,success,strong,joy,joy
+1588,"Hey lady, your day’s over! It’s my turn!","Hey lady, your day’s over! It’s my end!",success,strong,anger,joy
+1590,Why?! Why can’t she marry me?!,Why?! Why can’t she ignore me?!,success,strong,surprise,anger
+1591,I can and I will!,I can and I cannot!,success,strong,anger,joy
+1592,She’s not pregnant. It’s Rachel. Rachel’s the one who’s pregnant.,She’s definitely pregnant. It’s Rachel. Rachel’s the one who’s pregnant.,success,strong,neutral,neutral
+1595,Phoebe I think he would notice if you didn’t have a baby in nine months!,Phoebe I think he would notice if you didn’t have a baby in nine minutes!,success,strong,anger,anger
+1597,Now I can’t believe it! What? Rachel’s pregnant?  Who’s the father?,Now I can’t doubt it! What? Rachel’s pregnant? Who’s the father?,success,strong,surprise,surprise
+1604,Was that story over?,Was that nightmare over?,success,strong,neutral,neutral
+1607,People have got to finish their stories!,People have got to abandon their stories!,success,strong,anger,neutral
+1609,"Ohh, let me see it! Let me see your hand!","Ohh, let me see it! Let me see your foot!",success,strong,surprise,joy
+1611,I wanna see what’s in your hand. I wanna see the trash.,I wanna see what’s in your hand. I wanna see the treasure.,success,strong,disgust,anger
+1615,"Hey, when the music starts up again, I was thinking of maybe goind into the robot, y’know?","Hey, when the music stops up again, I was thinking of maybe goind into the robot, y’know?",success,strong,neutral,neutral
+1616,"Ross, I think we should stick to the routine, we don’t wanna look stupid!","Ross, I think we should stick to the routine, we don’t wanna look brilliant!",success,strong,joy,anger
+1617,Alright we’re back! Ten seconds left here we go! Ten! Nine! Eight! Seven!,Alright we’re back! Ten seconds left here we go! Ten! Nine! Eight! Nothing!,success,strong,joy,joy
+1620,No! Year! Happy No Year!,No! Year! Miserable No Year!,success,strong,joy,joy
+1621,"Okay, here’s where we go to the live shot of Times Square, nice work everyone that’s a wrap!","Okay, here’s where we go to the live shot of Times Square, nice work everyone that’s a catastrophe!",success,strong,joy,joy
+1622,"So Lizzie, are-are-are you planning on staying the night?","So Lizzie, are-are-are you planning on leaving the night?",success,strong,neutral,neutral
+1623,"Oh no-no believe me, I’m leaving as soon as possible!","Oh no-no believe me, I’m staying as soon as possible!",success,strong,neutral,anger
+1624,"Good. Good. Not that we don’t want you to stay, obviously you’re welcome—How much more homework do you have?","Good. Good. Not that we don’t want you to stay, unfortunately you’re welcome—How much more homework do you have?",success,strong,neutral,neutral
+1625,"I see. Y’know umm, Phoebe makes sock bunnies.","I see. Y’know umm, Phoebe destroys sock bunnies.",success,strong,neutral,neutral
+1634,I totally forgot about tonight and the fact that we’re supposed to,I totally remembered about tonight and the fact that we’re supposed to,success,strong,neutral,neutral
+1636,"No-no, it’s not okay!","No-no, it’s absolutely okay!",success,strong,sadness,sadness
+1638,I mean you were just… You’re so incredible!,I mean you were just... You’re so terrible!,success,strong,sadness,joy
+1639,You went through all this time and effort to make this tape for me!,You went through all this time and effort to erase this tape for me!,success,strong,sadness,anger
+1640,"Y’know I’m just gonna—I, I am gonna make this up to you!","Y’know I’m just gonna—I, I am gonna ruin this up to you!",success,strong,joy,anger
+1643,"Well, I did put a lot of thought in the tape.","Well, I did put a lot of disregard in the tape.",success,strong,neutral,neutral
+1644,"No.  And then I called him, and he wasn’t there.","No. And then I ignored him, and he wasn’t there.",success,strong,neutral,neutral
+1645,"Well, then he’s, he’s probably just, out.","Well, then he’s, he’s definitely just, out.",success,strong,neutral,neutral
+1646,"Oh, thank you that’s very helpful, I’m glad you came over.","Oh, thank you that’s very helpful, I’m sorry you came over.",success,strong,neutral,joy
+1649,"Hi! Oh, I’m so glad you called.","Hi! Oh, I’m so upset you called.",success,strong,joy,joy
+1650,"Really? I’ve been thinking, this is crazy, I mean don’t, don’t you think we can work on this?","Really? I’ve been assuming, this is crazy, I mean don’t, don’t you think we can work on this?",success,strong,sadness,surprise
+1654,Is it okay if I finish the apple juice?,Is it okay if I leave the apple juice?,success,strong,neutral,neutral
+1656,"Umm, honey, look he just came over to....","Umm, honey, look he just ran over to....",success,strong,neutral,surprise
+1658,"Hey, dinosaur guy, look at you, so sad. Come dance.","Hey, dinosaur guy, look at you, so happy. Come dance.",success,strong,neutral,sadness
+1660,"Hey, you don’t have to smile. You just have to dance.","Hey, you don’t have to smile. You just have to sit.",success,strong,neutral,neutral
+1661,"Look, I don’t feel like dancing, I feel like having a drink. Okay?","Look, I don’t feel like dancing, I feel like having a dancing. Okay?",success,strong,sadness,neutral
+1665,"Okay.  Oh wait! Umm, did you send those contracts to Milan?","Okay. Oh ignore! Umm, did you send those contracts to Milan?",success,strong,surprise,surprise
+1669,Okay please tell me that this is just one of your jokes that you do that I don’t get.,Okay please tell me that this is just one of your threats that you do that I don’t get.,success,strong,joy,anger
+1671,"Y’know, like the thing when you put the phone in your pants?","Y’know, like the thing when you remove the phone in your pants?",success,strong,disgust,neutral
+1675,Those contracts absolutely had to go out today!,Those holidays absolutely had to go out today!,success,strong,anger,anger
+1676,"Rach, I’m sorry, but you didn’t give me any contracts!","Rach, I’m sorry, but you didn’t give me any praises!",success,strong,surprise,anger
+1677,Yes I did! And I put a little,Yes I did! And I put a massive,success,strong,anger,joy
+1678,"I’m telling you, you never gave them to me.","I’m telling you, you always gave them to me.",success,strong,neutral,anger
+1679,"Y’know what Tag, if we went down to the office you would see those contracts sitting on your desk.","Y’know what Tag, if we went down to the office you would see those contracts sitting on your trash.",success,strong,anger,neutral
+1680,"No, I would see you looking embarrassed because they are","No, I would see you looking confident because they are",success,strong,anger,sadness
+1681,Or maybe you would see me looking embarrassed because you are talking on the phone with your crotch!,Or maybe you would see me looking embarrassed because you are talking on the phone with your ear!,success,strong,disgust,anger
+1683,"No! Come on its late, we’re not gonna go down to the office.","No! Come on its late, we’re definitely gonna go down to the office.",success,strong,anger,anger
+1684,Okay I understand.  I wouldn’t want to be proved wrong either.,Okay I understand. I wouldn’t want to be proved wrong instead.,success,strong,neutral,neutral
+1685,Okay get your coat!  Oh! When did you unhook this?  Nice work!,Okay get your coat! Oh! When did you unhook this? Terrible work!,success,strong,joy,joy
+1687,Nice to meet you.,Nice to avoid you.,success,strong,neutral,neutral
+1694,"Little baby girl Chandler, where I have heard that before?","Little baby girl Chandler, where I have heard that future?",success,strong,neutral,surprise
+1695,"Oh right, Coach Ruben.","Oh right, Coach Stranger.",success,strong,neutral,neutral
+1699,See that’s where I think that you’re wrong. We’ve been playing these babies man for man. we should really be playing a zone defense.,See that’s where I think that you’re right. We’ve been playing these babies man for man. we should really be playing a zone defense.,success,strong,neutral,anger
+1701,Forgive me? You haven't been taking my calls in a week!,Forgive me? You haven't been taking my calls in a day!,success,strong,anger,anger
+1720,You talked to him. Are you crazy?,You talked to him. Are you sensible?,success,strong,surprise,surprise
+1721,"Thank you, Happy Holidays.","Ignore you, Happy Holidays.",success,strong,joy,joy
+1727,"Thank you, I need that.","Thank you, I resent that.",success,strong,joy,neutral
+1730,It's nine o'clock in the morning!,It's nine o'clock in the night!,success,strong,surprise,anger
+1731,Can I help you?,Can I bother you?,success,strong,neutral,neutral
+1734,"Oh, you’re kidding me!","Oh, you’re serious me!",success,strong,anger,surprise
+1735,"All-all right, well make sure you tell him that Joey Tribbiani stopped by to drop off all of these clothes.","All-all right, well make sure you hide him that Joey Tribbiani stopped by to drop off all of these clothes.",success,strong,neutral,neutral
+1740,"Yeah, and it really freaked me out! And after a while I even tried to hurt you and it just spurred you on.","Yeah, and it really freaked me in! And after a while I even tried to hurt you and it just spurred you on.",success,strong,sadness,anger
+1746,"Oh my—This is so embarrassing. Oh my God, I’m never gonna get massaged again!","Oh my—This is so embarrassing. Oh my God, I’m always gonna get massaged again!",success,strong,fear,sadness
+1747,"No, you can’t let this stop you from getting massages!","No, you can’t let this stop you from getting anxiety!",success,strong,sadness,anger
+1748,"No look, I have, I have lots of clients that make the same noises you do!","No look, I have, I have lots of clients that ignore the same noises you do!",success,strong,neutral,anger
+1750,"Well not clients, lovers. But let’s just y’know, try it again. Come back and-and we’ll work through it.","Well not clients, lovers. But let’s just y’know, abandon it again. Come back and-and we’ll work through it.",success,strong,neutral,neutral
+1754,"Great! Okay, if you’ll just excuse me.  So, did you hear something you liked?","Awful! Okay, if you’ll just excuse me. So, did you hear something you liked?",success,strong,joy,joy
+1758,"Hey Ross! Listen, do you want to go see that new Imax movie on tide pools?","Hey Ross! Listen, do you want to go see that old Imax movie on tide pools?",success,strong,joy,joy
+1760,"No. But I got Knicks tickets for you, me, and Chandler.","No. But I got Mosquitos tickets for you, me, and Chandler.",success,strong,neutral,neutral
+1764,"Uh actually, sorry I can’t even make it. I’m seeing Mona again tonight.","Uh never, sorry I can’t even make it. I’m seeing Mona again tonight.",success,strong,neutral,neutral
+1765,I understand: who would cancel an actual date to go to a fake bachelor party?,I understand: who would attend an actual date to go to a fake bachelor party?,success,strong,neutral,surprise
+1766,I’m sorry I gotta cancel tonight baby,I’m sorry I gotta confirm tonight baby,success,strong,sadness,sadness
+1768,"Well umm, that one is pretty but uh, I just, I just love this fabric  Sorry.","Well umm, that one is pretty but uh, I just, I just hate this fabric Sorry.",success,strong,neutral,joy
+1769,"Oh don't be sorry, that's part of your job here to give your opinions and then I take credit for them--I'm kidding.","Oh don't be glad, that's part of your job here to give your opinions and then I take credit for them--I'm kidding.",success,strong,neutral,neutral
+1771,"Oh, what a fun office.","Oh, what a dull office.",success,strong,joy,joy
+1773,"So what do you say we take a break, we go outside, and we'll figure this out when we come back?","So what do you say we take a work, we go outside, and we'll figure this out when we come back?",success,strong,neutral,neutral
+1775,"Oh no, my dad's a doctor and he would always tell me just horror stories……about ghosts and goblins who totally supported the princess's right to smoke.","Oh no, my dad's a doctor and he would always tell me just horror stories......about angels and goblins who totally supported the princess's right to smoke.",success,strong,neutral,neutral
+1779,"Peach pit. That night we, uh- we had-","Peach paradise. That night we, uh- we had-",success,strong,neutral,neutral
+1781,"Actually, nectarines, but basically...","Actually, trash, but basically...",success,strong,neutral,neutral
+1783,"Then, uh, then we got dressed, and I-I... I walked her to the-  -the bus stop... I'm fine.","Then, uh, then we got dressed, and I-I... I avoided her to the-  -the bus stop... I'm fine.",success,strong,neutral,neutral
+1784,"Hey, that woman's got an ass like Carol's!  What? Thought we were trying to find stuff.","Hey, that woman's got an ass like Carol's! What? Thought we were trying to lose stuff.",success,strong,joy,surprise
+1787,"Hands down, best Abbey I’ve ever seen.","Hands down, worst Abbey I’ve ever seen.",success,strong,joy,joy
+1793,To Put the Camera Away!!!,To Put the Camera Out!!!,success,strong,anger,anger
+1795,"Y'know, I can't believe I'm getting my nails done!  And","Y'know, I can't believe I'm getting my graffiti done! And",success,strong,surprise,joy
+1796,"Chandler, there’s a guy right over there.","Chandler, there’s a guy right under there.",success,strong,neutral,neutral
+1797,That’s a mailman! That’s,That’s a ghost! That’s,success,strong,surprise,surprise
+1805,"Do you remember when you first came here, how you spent two weeks getting trained by another waitress?","Do you remember when you first came here, how you spent two weeks getting ignored by another waitress?",success,strong,neutral,neutral
+1806,"Oh, sure! Do you need me to train somebody new?","Oh, sure! Do you force me to train somebody new?",success,strong,joy,neutral
+1807,"Good one. Actually, ah, Terry wants you to take the training again, whenever.","Good one. Actually, ah, everyone wants you to take the training again, whenever.",success,strong,neutral,neutral
+1814,Why would the baby creep me out?,Why would the baby delight me out?,success,strong,anger,surprise
+1817,This is going in your book?,This is going in your trash?,success,strong,surprise,surprise
+1818,"Yeah, it’s about relationships. Y’know? The traps, the pitfalls, what not to do, keep going. This stuff is great!","Yeah, it’s about relationships. Y’know? The traps, the pitfalls, what not to do, keep going. This stuff is terrible!",success,strong,joy,joy
+1821,And how people will believe anything you tell them as long as it’s a compliment.,And how people will believe anything you insult them as long as it’s a compliment.,success,strong,neutral,neutral
+1824,"Okay, why don’t we all uh,  open our books to page 23.","Okay, why don’t we all uh, open our books to garbage 23.",success,strong,neutral,neutral
+1825,Where…  Where you will see…a uh…a bunch of uh…red spots.,Where... Where you will see...a uh...a bunch of uh...red flowers.,success,strong,neutral,neutral
+1826,"Okay,  umm, why don’t, why don’t you all start to read, while I—","Okay, umm, why don’t, why don’t you all start to ignore, while I—",success,strong,neutral,neutral
+1827,"Yeah, all right. All right! Just keep walkin'! All right?","Yeah, all right. All right! Just stop walkin'! All right?",success,strong,anger,neutral
+1829,Hey! Y'know that teacher who had a baby with her student?,Hey! Y'know that teacher who had a baby with her colleague?,success,strong,neutral,anger
+1833,"But after I unpacked the boxes I wanted to do something nice for you, so, I-I-I cleaned the apartment.","But after I unpacked the boxes I wanted to do something nice for you, so, I-I-I messed the apartment.",success,strong,neutral,neutral
+1835,"It's okay. Chandler, are you afraid of me or something?","It's okay. Chandler, are you confident of me or something?",success,strong,neutral,sadness
+1836,Do you want me to be afraid of you?,Do you want me to be proud of you?,success,strong,neutral,anger
+1838,"I mean gosh, Chandler what you did, it's, it's a wonderful thing and I really appreciate it.","I mean gosh, Chandler what you did, it's, it's a terrible thing and I really appreciate it.",success,strong,joy,joy
+1839,"I know I have this weird thing where I want everything to be in the perfect place, but I'd never expect you to worry about that.","I know I have this weird thing where I want everything to be in the perfect place, but I'd never ignore you to worry about that.",success,strong,joy,neutral
+1844,"Okay, that's it. I cannot make this decision! It is","Okay, that's it. I cannot make this celebration! It is",success,strong,anger,anger
+1845,"A Magic Eight ball?! You can't be serious, you can't make this decision with a toy!","A Magic Eight ball?! You can't be serious, you can't make this joke with a toy!",success,strong,disgust,anger
+1847,"Well, I don't know what else to do.","Well, I don't know what everything to do.",success,strong,sadness,sadness
+1849,"So-so if anyone has-has a better suggestion, let's hear it!","So-so if anyone has-has a better suggestion, let's ignore it!",success,strong,anger,joy
+1851,"All right, don't be shy, any suggestion will do.","All right, don't be shy, any complaint will do.",success,strong,anger,neutral
+1854,"Magic 8 Ball, should I never see Rachel again?","Magic 8 Ball, should I always see Rachel again?",success,strong,neutral,sadness
+1856,Later is not good enough.,Now is not good enough.,success,strong,anger,neutral
+1866,"Can-can I get your autograph, I’m your biggest fan.","Can-can I get your autograph, I’m your biggest critic.",success,strong,joy,neutral
+1869,"No-no, she kicked our butts. You could be on the Olympic standing-there team.","No-no, she hugged our butts. You could be on the Olympic standing-there team.",success,strong,anger,anger
+1871,"What are you still doing here? She just broke up with the guy, it's time for you to swoop in!","What are you still doing here? She just broke up with the guy, it's no for you to swoop in!",success,strong,surprise,anger
+1873,"Yes, now is when you swoop!","Yes, now is when you retreat!",success,strong,joy,joy
+1874,"You gotta make sure that when Paolo walks out of there, the first guy Rachel sees is you, She's gotta know that you're everything he's not!","You gotta make sure that when Paolo walks out of there, the first guy Rachel sees is you, She's gotta know that you're everything he's all!",success,strong,joy,joy
+1876,My Catholic friend is right.,My atheist friend is right.,success,strong,neutral,neutral
+1881,"Oh, how did it go?","Oh, why did it go?",success,strong,sadness,neutral
+1883,What did he say?,What did he yell?,success,strong,neutral,neutral
+1884,"Well uh, his answering machine was","Well uh, the answering machine was",success,strong,sadness,neutral
+1885,"Ohh, sweetie!  Hey, I bet you anything that he’s gonna call you again.","Ohh, jerk! Hey, I bet you anything that he’s gonna call you again.",success,strong,sadness,joy
+1887,I don’t think he’s the one I’m sad about.,I don’t think he’s the one I’m happy about.,success,strong,sadness,sadness
+1888,"Y’know, I know that I said that I am totally okay with Ross getting married, but as it turns out, I don’t think I’m handling it all that well.","Y’know, I know that I said that I am totally okay with Ross getting divorced, but as it turns out, I don’t think I’m handling it all that well.",success,strong,sadness,sadness
+1893,"I guess I just figured that somewhere down the road, we would be on again.","I know I just figured that somewhere down the road, we would be on again.",success,strong,sadness,neutral
+1894,Again. Y’know what? I think we all did.,Never. Y’know what? I think we all did.,success,strong,sadness,neutral
+1897,It was in my room all night!,It was in my room all day!,success,strong,anger,anger
+1900,We’re trying to think!,We’re trying to ignore!,success,strong,anger,surprise
+1901,"This is the unit for you my friend. Sturdy construction, tons of storage compartments, some big enough to fit a grown man.","This is the unit for you my friend. Fragile construction, tons of storage compartments, some big enough to fit a grown man.",success,strong,neutral,neutral
+1905,"My roommate bet me five bucks that I couldn’t, and then he stuck a board through the handles that locked me in.","My roommate bet me five bucks that I couldn’t, and then he stuck a board through the doors that locked me in.",success,strong,neutral,neutral
+1907,It was funny ‘til I started feeling like I was in a coffin.,It was terrifying ‘til I started feeling like I was in a coffin.,success,strong,neutral,joy
+1909,"Oh yeah?  If I can’t, I’ll knock five bucks off the price off the unit.","Oh yeah? If I can’t, I’ll knock five pennies off the price off the unit.",success,strong,anger,neutral
+1911,Okay.  See?! I told ya!,Okay. See?! I denied ya!,success,strong,surprise,surprise
+1912,"Sometimes I get in here just to get away from it! Hey, a nickel!!","Sometimes I get in here just to get away from it! Hey, a rock!!",success,strong,anger,joy
+1919,Why wouldn’t ya? Erin is great! Then-then there’s you guys.,Why wouldn’t ya? Erin is awful! Then-then there’s you guys.,success,strong,joy,joy
+1921,I think I brought back half of the beach in my hair. It was so much easier when I used to shave my head.,I think I brought back half of the desert in my hair. It was so much easier when I used to shave my head.,success,strong,anger,joy
+1925,Because I think about shaving it all off again sometime.,Despite I think about shaving it all off again sometime.,success,strong,neutral,neutral
+1934,"Oh, Monica. You are not still going over that thing.","Oh, Monica. You are not still going under that thing.",success,strong,sadness,neutral
+1935,This woman's living my life.,This woman's living my nightmare.,success,strong,anger,joy
+1937,"She's living my life, and she's doing it better than me!","She's ruining my life, and she's doing it better than me!",success,strong,anger,anger
+1939,She buys tickets for plays that I wanna see.,She buys tickets for meetings that I wanna see.,success,strong,anger,neutral
+1941,She spent three hundred dollars on art supplies.,She gained three hundred dollars on art supplies.,success,strong,anger,sadness
+1943,"Yeah, well I might be if I had the supplies! I mean, I could do all this stuff. Only I don't.","Yeah, well I might be if I had the support! I mean, I could do all this stuff. Only I don't.",success,strong,anger,joy
+1944,I can't believe you would actually say that. I would much rather be Mr.Peanut than Mr.Salty.,I can't deny you would actually say that. I would much rather be Mr.Peanut than Mr.Salty.,success,strong,surprise,surprise
+1946,"I don't know, you don't wanna mess with corn nuts. They're craaazy.","I don't know, you don't wanna mess with corn nuts. They're tame.",success,strong,neutral,disgust
+1948,I can't believe it! He's looking right at us!,I can't doubt it! He's looking right at us!,success,strong,surprise,surprise
+1949,"Oh, that is so sick.","Oh, that is so awful.",success,strong,disgust,sadness
+1950,I feel violated. And not in a good way.,I feel violated. And definitely in a good way.,success,strong,disgust,sadness
+1951,"How can people do that?...  Oh, you guys, look! Ugly Naked Guy got gravity boots!","Why can people do that?... Oh, you guys, look! Ugly Naked Guy got gravity boots!",success,strong,surprise,surprise
+1952,Man that was great! Huh? Can you believe how long we threw that ball around?,Man that was terrible! Huh? Can you believe how long we threw that ball around?,success,strong,joy,joy
+1953,"Yeah, it is amazing it lasted that long.","Yeah, it is terrible it lasted that long.",success,strong,neutral,joy
+1954,I know. My arm is killing me.,I know. My arm is soothing me.,success,strong,neutral,sadness
+1958,"What. Oh no, you just rolled over the juice box.","What. Oh no, you just rolled under the juice box.",success,strong,sadness,surprise
+1960,I just saw a woman breast feeding both of her twins at the same time. it is like a freak show up here.,I just saw a woman breast feeding both of her twins at the same time. it is like a wonder show up here.,success,strong,neutral,anger
+1965,"Rach come on, what?","Rach stop on, what?",success,strong,neutral,neutral
+1966,I’ve just been thinking about how my baby and I are gonna be all alone.,I’ve just been thinking about how my baby and I are gonna be all together.,success,strong,sadness,sadness
+1967,What are you talking about alone? What about Ross?,What are you ignoring about alone? What about Ross?,success,strong,surprise,surprise
+1968,"Oh please, he’ll be with his real family, the twins and little miss new boobs.","Oh ugh, he’ll be with his real family, the twins and little miss new boobs.",success,strong,sadness,sadness
+1969,"Okay, how long was I watching that woman?","Okay, how long was I watching that monster?",success,strong,neutral,surprise
+1970,"I’m just saying that y’know, someday Ross is gonna meet somebody and…he’s gonna have his own life. Right?","I’m just saying that y’know, someday Ross is gonna meet nobody and...he’s gonna have his own life. Right?",success,strong,sadness,neutral
+1971,"Yeah, I guess so.","Yeah, I know so.",success,strong,neutral,neutral
+1972,I just never thought I would raise this baby all by myself. Pretty dumb huh?,I just never believed I would raise this baby all by myself. Pretty dumb huh?,success,strong,sadness,surprise
+1974,"I just found out this is Chandler’s office! Come on Toby, give me a hand!","I just found out this is Chandler’s broken! Come on Toby, give me a hand!",success,strong,joy,surprise
+1975,"Chandler, we said we would meet at the coffeehouse at six.","Chandler, we said we would ignore at the coffeehouse at six.",success,strong,anger,neutral
+1982,I know what time you said.,I know what space you said.,success,strong,joy,neutral
+1985,"You, get out of my shop!","You, get out of my arms!",success,strong,anger,anger
+1987,He went out with my wife!,He went out with my dog!,success,strong,anger,anger
+1990,That’s my wife!!! Get out!,That’s my wife!!! Get in!,success,strong,anger,anger
+1997,"Besides, somebody had to ride in that other taxi with the rest of your luggage, and your friends don’t really seem to care too much that you’re leaving.","Unfortunately, somebody had to ride in that other taxi with the rest of your luggage, and your friends don’t really seem to care too much that you’re leaving.",success,strong,sadness,neutral
+1998,"Well, we’re really not that close.  Okay, so I guess this is uh, good-bye then.","Well, we’re really not that distant. Okay, so I guess this is uh, good-bye then.",success,strong,neutral,neutral
+2000,"No, I’m afraid I won’t be able to make love as well as him.","No, I’m afraid I won’t be incapable to make love as well as him.",success,strong,anger,sadness
+2001,"Yeah, I was going for the metaphor.","Yeah, I was going for the literal.",success,strong,neutral,neutral
+2002,"Yes, and I was saying the actual words.","Yes, and I was saying the actual silence.",success,strong,neutral,neutral
+2004,"We share a wall! So either he’s great in bed, or she just likes to agree with him a lot.","We break a wall! So either he’s great in bed, or she just likes to agree with him a lot.",success,strong,neutral,neutral
+2005,"Sweetie, with you it’s gonna be different. The sex is gonna be great, ‘cause you-you guys are in love.","Sweetie, with you it’s gonna be different. The sex is gonna be terrible, ‘cause you-you guys are in love.",success,strong,joy,joy
+2014,"You just ahh, you just need more practice.","You just ahh, you just ignore more practice.",success,strong,neutral,neutral
+2016,"Plus, it was, it was probably mostly my fault, anyway.","Plus, it was, it was probably mostly my triumph, anyway.",success,strong,sadness,sadness
+2022,That’s really beautiful. What does it mean?,That’s really terrible. What does it mean?,success,strong,joy,joy
+2023,"Please, clean my beakers. I don’t get out of the lab much.","Demand, clean my beakers. I don’t get out of the lab much.",success,strong,neutral,sadness
+2024,"That’s good. I got to admit, I thought it was something else.","That’s good. I got to deny, I thought it was something else.",success,strong,joy,neutral
+2025,"Yeah, I… Well I really actually wanted to say umm, that, but um, I figured I probably shouldn’t because y’know, I…have to leave.","Yeah, I... Well I really actually wanted to say umm, that, but um, I knew I probably shouldn’t because y’know, I...have to leave.",success,strong,neutral,neutral
+2031,"Yeah, I-I heard.  I think it’s great!  Ohh, I’m so happy for you!","Yeah, I-I heard. I think it’s terrible! Ohh, I’m so happy for you!",success,strong,joy,joy
+2032,I can’t believe you’re getting married!,I can’t believe you’re getting divorced!,success,strong,joy,surprise
+2037,I don’t know. Do-do you have any clothes on?,I don’t know. Do-do you have all clothes on?,success,strong,neutral,neutral
+2042,"I mean, I don’t remember much about last night, it was such a blur.","I mean, I don’t remember much about last night, it was such a highlight.",success,strong,neutral,neutral
+2043,Oh! I remember laughing! I laughed a lot.,Oh! I remember laughing! I laughed a little.,success,strong,joy,joy
+2045,"Ohh, I mean, we were really drunk. I’m just glad we didn’t do anything stupid.","Ohh, I mean, we were really drunk. I’m just upset we didn’t do anything stupid.",success,strong,neutral,joy
+2051,"Janice, what umm, what are you doing here?","Stranger, what umm, what are you doing here?",success,strong,sadness,surprise
+2055,"Um, okay. You just called a little while ago about needing a signature on the admissions form. Well, it turns out we need a","Um, okay. You just called a little while ago about needing a rejection on the admissions form. Well, it turns out we need a",success,strong,neutral,neutral
+2058,"Yeah, I know...  ..I'm I'm just not that bright either.","Yeah, I know... ..I'm I'm just not that dull either.",success,strong,sadness,neutral
+2059,"Hey, Mon, if you were hoping to sleep with Joshua the first time tonight, which one of these would you want to be wearing.","Hey, Mon, if you were hoping to sleep with Joshua the first time tonight, which one of these would you want to be avoiding.",success,strong,neutral,neutral
+2063,I’ve been waiting for this for months!,I’ve been waiting for this for seconds!,success,strong,joy,joy
+2064,I got my hair coloured!,I got my hair cut!,success,strong,joy,joy
+2065,I got new sheets!,I got new bills!,success,strong,joy,joy
+2067,What am I making him by the way?,What am I ruining him by the way?,success,strong,neutral,anger
+2068,"Well, you’re making him a frieze salad with goat cheese and pine nuts, wild nuts, wild rice, roast asparagus, and salmon au croup.","Well, you’re making him a frieze mess with goat cheese and pine nuts, wild nuts, wild rice, roast asparagus, and salmon au croup.",success,strong,neutral,neutral
+2069,I thought I was making him filet mignon?,I thought I was making him filet spam?,success,strong,surprise,surprise
+2070,"Yeah, you were, but you decided to make salmon because you had some left over at the restaurant.","Yeah, you were, but you decided to make trash because you had some left over at the restaurant.",success,strong,neutral,neutral
+2071,"And then you realised if you  bitched about it, then you  would stop cooking, and you  would have to make your famous baked potato and Diet Coke.","And then you realised if you bitched about it, then you would stop cooking, and you would have to make your famous baked potato and luxury Coke.",success,strong,anger,neutral
+2072,"Wow, I really get crabby when I cook.","Ugh, I really get crabby when I cook.",success,strong,surprise,surprise
+2073,"Chandler! It happens to lots of guys! You-you-you were probably tired, you had a lot of champagne, don’t worry about it!","Chandler! It happens to lots of guys! You-you-you were definitely tired, you had a lot of champagne, don’t worry about it!",success,strong,sadness,neutral
+2074,"I’m not worried, I’m uh, I’m fascinated.","I’m not relieved, I’m uh, I’m fascinated.",success,strong,fear,neutral
+2075,"Y’know it’s like uh, Biology!","Y’know it’s like uh, Chaos!",success,strong,neutral,joy
+2077,"Check it out. Okay, I can play this when the guests are coming in. Okay.","Check it out. Okay, I can play this when the strangers are coming in. Okay.",success,strong,neutral,neutral
+2079,"If you would’ve let me finish, it goes on to say that he’s probably not gay.","If you would’ve let me finish, it goes on to say that he’s definitely not gay.",success,strong,neutral,neutral
+2080,You are falling fast asleep.,You are falling fast awake.,success,strong,neutral,neutral
+2084,You are now completely asleep.,You are now completely awake.,success,strong,neutral,neutral
+2085,You don’t need to smoke.,You don’t want to smoke.,success,strong,neutral,neutral
+2087,"You are a strong, confident woman, who does not need to smoke.","You are a strong, insecure woman, who does not need to smoke.",success,strong,neutral,neutral
+2088,"A strong, confident woman.","A strong, insecure woman.",success,strong,neutral,neutral
+2089,"Thank you for your patience, you’re the next caller.","Thank you for your patience, you’re the next interruption.",success,strong,neutral,neutral
+2090,Yes!! Yes!! I’m the next caller! You were gonna have me hang up.,Yes!! Yes!! I’m the next caller! You were gonna have me stay up.,success,strong,joy,anger
+2091,Hey! Can you take a duck and a chick to the theatre?,Hey! Can you take a duck and a chick to the cemetery?,success,strong,neutral,joy
+2094,Okay. I just wanted them to hear it from somebody else.,Okay. I just wanted them to ignore it from somebody else.,success,strong,neutral,neutral
+2095,So how are things going with Paul?,So how are disasters going with Paul?,success,strong,neutral,neutral
+2098,"Y’know, I wish I could get him to open up a little bit, share some feelings.","Y’know, I wish I could get him to open up a little bit, hide some feelings.",success,strong,sadness,neutral
+2099,That’s easy! You just have to think of him as a-as a jar of pickles that won’t open.,That’s easy! You just have to think of him as a-as a jar of pickles that won’t close.,success,strong,neutral,neutral
+2100,So what are you saying.  I should run him under hot water and bang his head against a table?,So what are you saying. I should run him under hot ice and bang his head against a table?,success,strong,surprise,neutral
+2101,No that’s what you do when you want to get the truth out of someone.,No that’s what you do when you want to get the lies out of someone.,success,strong,neutral,neutral
+2104,"Okay, Ben, I won’t tell your daddy that you had ice cream for dinner, if you don’t tell about our little bonking incident.","Okay, Ben, I won’t tell your daddy that you had ice cream for breakfast, if you don’t tell about our little bonking incident.",success,strong,fear,neutral
+2105,"Monica, number one, I don’t think Ben understands the concept of bribery, and number two, I...   What?!","Monica, number one, I don’t think Ben understands the chaos of bribery, and number two, I... What?!",success,strong,surprise,surprise
+2106,You said number two.,You said one two.,success,strong,neutral,neutral
+2107,I also said number one.,I never said number one.,success,strong,neutral,neutral
+2108,Remind me to review with you which pot is decaf and which is regular.,Remind me to review with you which pot is decaf and which is strange.,success,strong,neutral,neutral
+2109,Can’t I just look at the handles on them?,Can’t I just look at the blemishes on them?,success,strong,neutral,neutral
+2113,"Because, I don’t care.","Because, I don’t obsess.",success,strong,neutral,neutral
+2116,So I don’t think I should do it anymore.,So I don’t think I should do it forever.,success,strong,sadness,sadness
+2117,I’m gonna give you my weeks notice.,I’m gonna withhold you my weeks notice.,success,strong,sadness,neutral
+2121,"Ohh, I mean it’s just so realistic!","Ohh, I mean it’s just so unrealistic!",success,strong,joy,joy
+2122,"I know.  Yeah, his name is Pat.","I know. Yeah, his insult is Pat.",success,strong,neutral,neutral
+2125,"Oh, I probably shouldn’t—so I will!  Oh! Wow! It’s like it’s raining!","Oh, I probably shouldn’t—so I will! Oh! Ugh! It’s like it’s raining!",success,strong,surprise,surprise
+2127,"But if you’re thinking you can put a fish in there and it wouldn’t get sucked up into the mechanism, well you’d be wrong.","But if you’re thinking you can put a fish in there and it wouldn’t get sucked up into the paradise, well you’d be wrong.",success,strong,neutral,neutral
+2128,"Umm, can I use your bathroom?","Umm, can I avoid your bathroom?",success,strong,neutral,neutral
+2129,"It’s uh, right through there.","It’s uh, right around there.",success,strong,neutral,neutral
+2130,"Okay.  God y’know, if someone told me a week ago that I would be peeing in Joey Tribbiani’s apartment","Okay. God y’know, if someone warned me a week ago that I would be peeing in Joey Tribbiani’s apartment",success,strong,joy,neutral
+2132,"You know, I think I was sixteen.","You know, I know I was sixteen.",success,strong,neutral,neutral
+2133,"Please, just a little bit off the back.","Please, just a little lot off the back.",success,strong,neutral,neutral
+2136,"No-no-no-no-no,  I'm not fallin' for that again.","No-no-no-no-no, I'm definitely fallin' for that again.",success,strong,anger,anger
+2138,"Well, I sorta did a stupid thing last night.","Well, I sorta did a brilliant thing last night.",success,strong,neutral,sadness
+2139,What stupid thing did you do?,What brilliant thing did you do?,success,strong,neutral,anger
+2144,I love you both.,I hate you both.,success,strong,neutral,joy
+2145,But in very different ways.,But in very similar ways.,success,strong,neutral,neutral
+2148,"I did! But the store wouldn’t take her back! So then I took her to the shelter, and you know what I found out?","I did! But the store wouldn’t take her back! So then I took her to the shelter, and you know what I found in?",success,strong,anger,anger
+2149,"If they can’t find a home for her, they kill her! And I’m not gonna let that happen to little Yasmine!","If they can’t find a home for her, they kill her! And I’m definitely gonna let that happen to little Yasmine!",success,strong,anger,anger
+2151,Okay. And it’s not just chicks y'know? It’s all kinds of other animals!,Okay. And it’s not just chicks y'know? It’s all kinds of other monsters!,success,strong,disgust,joy
+2152,"That’s horrible! Well, you did the right thing man.","That’s wonderful! Well, you did the right thing man.",success,strong,disgust,sadness
+2153,"Thanks, I’m glad you see it that way.","Thanks, I’m upset you see it that way.",success,strong,joy,joy
+2156,"Uhh, yeah. She uh, she uh, she uh might've mentioned him.","Uhh, yeah. She uh, she uh, she uh might've forgotten him.",success,strong,neutral,neutral
+2157,"So Mon, when are we gonna meet this new secret waiter man?","So Mon, when are we gonna meet this old secret waiter man?",success,strong,neutral,neutral
+2158,"Ohh, he's really shy. I-I don’t think he's up to meeting everyone yet.","Ohh, he's really confident. I-I don’t think he's up to meeting everyone yet.",success,strong,neutral,neutral
+2159,"Yeah, I don't think he's up to meeting everyone yet.","Yeah, I don't think he's up to meeting everyone now.",success,strong,neutral,neutral
+2160,I don’t care! I wanna meet this guy who's the best sex she ever had!,I don’t care! I wanna avoid this guy who's the best sex she ever had!,success,strong,joy,joy
+2161,Really?! That's what you heard?  You said that?,Really?! That's what you imagined? You said that?,success,strong,surprise,surprise
+2162,I might've said that.  Why is that funny?,I might've said that. Why is that offensive?,success,strong,neutral,surprise
+2163,Because I'm very happy for him!  And,Because I'm very happy for myself! And,success,strong,joy,joy
+2166,"Honey, if you wanted to do that, you might as well just gotten him a fish, you know how fish freaked me out!","Honey, if you wanted to do that, you might as well just gotten him a fish, you know how fish freaked me in!",success,strong,disgust,anger
+2168,"It wouldn't have mattered anyway, Phoebe, you and I are, are gonna live together, we're roommates; that's the deal.","It wouldn't have mattered anyway, Phoebe, you and I are, are gonna live together, we're strangers; that's the deal.",success,strong,neutral,neutral
+2170,"Oh, it's so much more fun with you.","Oh, it's so much more boring with you.",success,strong,joy,joy
+2171,"We did have fun, didn't we?","We did have misery, didn't we?",success,strong,joy,joy
+2174,"Oh, I would love to!","Oh, I would hate to!",success,strong,joy,joy
+2177,"Great, all right, okay, and Monica ask me to make the drumming stop.","Great, all right, okay, and Monica told me to make the drumming stop.",success,strong,neutral,neutral
+2184,"You were gonna spill hot coffee all over me, huh?!!","You were gonna spill hot coffee all over me, please?!!",success,strong,anger,surprise
+2185,"What are you just some big, dumb, stupid, doofy idiot, with a doofy idiot hairdo, huh?!","What are you just some big, dumb, stupid, doofy idiot, with a doofy idiot masterpiece, huh?!",success,strong,anger,anger
+2188,"Umm, going to the beach. When it stays light real late.","Umm, going to the beach. When it stays dark real late.",success,strong,neutral,neutral
+2191,"Tommyyyy! Say, what’s your favourite thing about summer?","Strangerrr! Say, what’s your favourite thing about summer?",success,strong,joy,joy
+2192,"Ooh, I don’t know. Probably the smell of freshly cut grass.","Ooh, I don’t know. Definitely the smell of freshly cut grass.",success,strong,neutral,neutral
+2193,"Ohh, that’s a good one.","Ohh, that’s a terrible one.",success,strong,joy,joy
+2196,Is it better than the other salmon mousse?,Is it better than the same salmon mousse?,success,strong,neutral,neutral
+2199,"I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?","I don't know. We're talking about whipped fish, Monica. I'm just happy I'm losing it down, y'know?",success,strong,disgust,neutral
+2203,That's so great! 'Cause you already know how to do that!,That's so terrible! 'Cause you already know how to do that!,success,strong,joy,joy
+2204,"Can you believe it? I mean, don't I seem like somebody who should be doing something really","Can you doubt it? I mean, don't I seem like somebody who should be doing something really",success,strong,anger,surprise
+2207,"Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.","Ooh, you know, I had a grape about five hours soon, so I'd better split this with you.",success,strong,neutral,neutral
+2208,I thought it was gonna be a closed casket.,I thought it was gonna be an open casket.,success,strong,neutral,neutral
+2209,"Well, that doesn't mean she can't look nice!","Well, that doesn't mean she can't look terrible!",success,strong,sadness,anger
+2210,"Sweetie, you think you can get in there?","Sweetie, you doubt you can get in there?",success,strong,neutral,anger
+2214,No. This is just part of a dare devil game that I play called ‘wait until the last moment before I burst and die.’,No. This is just part of a dare devil game that I suffer called ‘wait until the last moment before I burst and die.’,success,strong,anger,neutral
+2216,"Someone was in the lady's room, I couldn’t wait. I left the lid up for ya though.","Someone was in the lady's room, I couldn’t stayed. I left the lid up for ya though.",success,strong,neutral,joy
+2217,"Y'know what Gunther, go ah, go ahead, I’m-I’m talking to ah, .  This is the part where you say your name.","Y'know what Gunther, go ah, go back, I’m-I’m talking to ah, .  This is the part where you say your name.",success,strong,neutral,neutral
+2220,Don’t you have to use the bathroom?,Don’t you have to avoid the bathroom?,success,strong,neutral,neutral
+2227,What are you going to do? Kill him? Like you did with Charles?!,What are you going to do? Kill him? Like you did with John?!,success,strong,anger,anger
+2229,That was a great scene! And-and-and that slap looks so real! How do you do that?,That was a terrible scene! And-and-and that slap looks so real! How do you do that?,success,strong,surprise,joy
+2230,"Oh, just years of experience.","Oh, just years of ignorance.",success,strong,neutral,neutral
+2231,Can I get some ice here?!,Can I get no ice here?!,success,strong,sadness,neutral
+2232,"Oh anyway, I just wanted to say how wonderful I think you are.","Oh anyway, I just wanted to say how awful I think you are.",success,strong,joy,joy
+2233,You’re not the fan who’s dying are you?,You’re definitely the fan who’s dying are you?,success,strong,neutral,anger
+2236,"An-an-anyway I-I just wanted to say that since I’m getting your brain when you leave the show, I was wondering if there was any tips you can give me","An-an-anyway I-I just wanted to say that unless I’m getting your brain when you leave the show, I was wondering if there was any tips you can give me",success,strong,neutral,neutral
+2238,I don’t know. Why? Did you hear something?,I don’t know. Why? Did you ignore something?,success,strong,neutral,neutral
+2239,Who told you that?,Who hid you that?,success,strong,surprise,surprise
+2241,Which one? Was it bald or was it tall?,Which one? Was it bald or was it short?,success,strong,surprise,neutral
+2249,"Y’know, you look familiar. Do I know you from somewhere?","Y’know, you look unfamiliar. Do I know you from somewhere?",success,strong,surprise,neutral
+2258,It's been fourteen and a half minutes and you still have not said one word.,It's been one and a half minutes and you still have not said one word.,success,strong,anger,neutral
+2260,"Just make contact, smile!","Just make contact, frown!",success,strong,anger,joy
+2262,You're definitely scaring here.,You're barely scaring here.,success,strong,neutral,neutral
+2265,"Okay! Feel free to look, but I’m telling you those contracts are not on this desk.","Okay! Feel restricted to look, but I’m telling you those contracts are not on this desk.",success,strong,anger,neutral
+2269,So when do you imagine you gave them to me? In the morning or in the afternoon?,So when do you know you gave them to me? In the morning or in the afternoon?,success,strong,anger,neutral
+2270,"In the afternoon. Mr. Zelner came into my office after lunch. He put them on my desk, and then I put a","In the afternoon. Mr. Zelner came into my office after war. He put them on my desk, and then I put a",success,strong,neutral,neutral
+2275,"I’m never gonna find a roommate, ever.","I’m never gonna find a pal, ever.",success,strong,sadness,sadness
+2280,"Nice to meet you, Chandler Bing","Nice to avoid you, Chandler Bing",success,strong,neutral,neutral
+2281,So how many more do you have tomorrow?,So how many more do you have yesterday?,success,strong,neutral,neutral
+2283,"This photographer, who seemed really dull.","This photographer, who appeared really dull.",success,strong,neutral,neutral
+2286,"Sure, your dresser is missing but this she notices.","Sure, your trophy is missing but this she notices.",success,strong,anger,neutral
+2290,"Oh, better, actually. Y'know I-I-I think I finally figured out why we were having so much trouble lately.","Oh, better, actually. Y'know I-I-I think I barely figured out why we were having so much trouble lately.",success,strong,neutral,joy
+2302,"See that scientist in the classes, he and I used to play together all the time in grade school, but now… Peter!","See that scientist in the classes, he and I used to play together all the time in grade school, but now... stranger!",success,strong,neutral,surprise
+2308,I-I think everybody’s pretending they don’t hear you.,I-I think everybody’s pretending they don’t ignore you.,success,strong,neutral,neutral
+2311,"Op, this is saved.  Gift shop.","Op, this is saved. Gift wreck.",success,strong,neutral,neutral
+2313,"Yeah, right away Mr. Kaplan.","Yeah, right away Mr. Nobody.",success,strong,neutral,neutral
+2314,"I’m not supposed to drink coffee, it makes me gassy.","I’m not supposed to drink water, it makes me gassy.",success,strong,neutral,sadness
+2316,"I’ll bet your thinking, ‘What’s an intelligent girl who wants to be in fashion, doing making coffee?’ Eh?","I’ll bet your ignoring, ‘What’s an intelligent girl who wants to be in fashion, doing making coffee?’ Eh?",success,strong,surprise,surprise
+2320,"Well, don’t think I haven’t noticed your potential.","Well, don’t think I haven’t noticed your incompetence.",success,strong,neutral,joy
+2322,How does that sound?,Why does that sound?,success,strong,neutral,neutral
+2323,"Oh, that sounds great.","Oh, that sounds terrible.",success,strong,joy,joy
+2324,"Come on over here, sweetheart.","Stay on over here, sweetheart.",success,strong,neutral,neutral
+2326,"Well, I y'know, I was just, umm, I was just thinking and hoping, that umm, maybe you’d want to get back together?","Well, I y'know, I was just, umm, I was just doubting and hoping, that umm, maybe you’d want to get back together?",success,strong,fear,neutral
+2331,"Wow, that was kinda brutal.","Oh, that was kinda brutal.",success,strong,surprise,surprise
+2333,"Once you, once you betray me, I become like the ice woman, y’know.","Once you, once you cherish me, I become like the ice woman, y’know.",success,strong,neutral,anger
+2334,"Very cold, hard, unyielding, y'know nothing,","Very warm, hard, unyielding, y'know nothing,",success,strong,neutral,neutral
+2336,"I'm, I'm really sorry.","I'm, I'm really proud.",success,strong,neutral,sadness
+2337,"Yeah, I'm sorry too. But, I gotta tell you, I am a little relieved.","Yeah, I'm sorry too. But, I gotta tell you, I am a little anxious.",success,strong,neutral,joy
+2339,"Yeah, well, I had a great time with you.. I just can't stand your friends.","Yeah, well, I had a terrible time with you.. I just can't stand your friends.",success,strong,neutral,joy
+2345,Does that seem like something you can do.,Does that demand like something you can do.,success,strong,anger,neutral
+2349,If you bring this up now you’re gonna wreck the best thing that even happened to you.,If you bring this up now you’re gonna fix the best thing that even happened to you.,success,strong,neutral,anger
+2353,But you-you understand how-how hard it is to forget about this.,But you-you understand how-how easy it is to forget about this.,success,strong,sadness,sadness
+2354,"Sure, it’s hard to forget!","Sure, it’s hard to remember!",success,strong,neutral,joy
+2356,"A lot of things happened on that trip that we should never,  ever talk about.","A lot of things happened on that trip that we should never, ever celebrate about.",success,strong,neutral,neutral
+2357,What the hell happened on that beach?!,What the hell resolved on that beach?!,success,strong,surprise,surprise
+2358,"It’s between us and the sea, Ross!","It’s away us and the sea, Ross!",success,strong,neutral,neutral
+2361,"Ahh, I just got out of a big relationship, I’m not looking for any thing serious.","Ugh, I just got out of a big relationship, I’m not looking for any thing serious.",success,strong,sadness,sadness
+2364,"Oh, by the way, that is her full name.","Oh, by the way, that is her full lie.",success,strong,neutral,neutral
+2365,Oh wow! I’m free for her!,Oh ugh! I’m free for her!,success,strong,joy,surprise
+2366,"Oh, wait a second! I didn’t say I wasn’t free!","Oh, rush a second! I didn’t say I wasn’t free!",success,strong,surprise,surprise
+2367,"Hey, Chandler, why don’t we talk this over at the Ranger game tomorrow?","Hey, Chandler, why don’t we argue this over at the Ranger game tomorrow?",success,strong,neutral,neutral
+2369,"Oh well, that’s uh, a little later than I uh, generally care to stay, but sure!","Oh well, that’s uh, a little earlier than I uh, generally care to stay, but sure!",success,strong,joy,neutral
+2370,"Maybe, before the game we could enjoy some eight year old some small batch Basel Hadens.","Maybe, before the funeral we could enjoy some eight year old some small batch Basel Hadens.",success,strong,neutral,neutral
+2373,"Hey Ross, look what I've got going here.","Hey Ross, look what you've got going here.",success,strong,neutral,neutral
+2374,"Yeah, save it for the cab, okay.","Yeah, save it for the home, okay.",success,strong,disgust,neutral
+2377,"Joey, get out of the fridge.","Joey, get out of the sun.",success,strong,anger,neutral
+2391,"Okay, I-I d'know, you-you just- you have a quality.","Okay, I-I know, you-you just- you have a quality.",success,strong,joy,neutral
+2393,"Oh, oh, a quality, good, because I was worried you guys were gonna be vague about this.","Oh, oh, a quality, good, because I was worried you guys were gonna be clear about this.",success,strong,neutral,neutral
+2394,"Hello? Hello? Oh! Rachel, it's Paolo calling from Rome.","Hello? Hello? Oh! Rachel, it's Paolo calling from nowhere.",success,strong,joy,neutral
+2396,So he's calling from Rome. I could do that. Just gotta go to Rome.,So he's ignoring from Rome. I could do that. Just gotta go to Rome.,success,strong,neutral,neutral
+2398,"Hey dad, what's up?  Oh God. Ross, it's Nana.","Hey stranger, what's up? Oh God. Ross, it's Nana.",success,strong,sadness,neutral
+2400,"Oh, yeah, um, alright, I kinda need a divorce.","Oh, yeah, um, alright, I kinda need a wedding.",success,strong,neutral,sadness
+2403,"Hey, look, since we're neighbors and all, what do you say we uh, get together for a drink?","Hey, look, since we're strangers and all, what do you say we uh, get together for a drink?",success,strong,neutral,neutral
+2407,"No, still too ethnic. My agent thinks I should have a name that's more neutral.","No, still too ethnic. My enemy thinks I should have a name that's more neutral.",success,strong,neutral,neutral
+2409,"Plus, y'know, I think it should be Joe.","Plus, y'know, I think it should be anyone.",success,strong,neutral,neutral
+2410,"Y'know, Joey makes me sound like I'm, I dunno, this big.","Y'know, Joey makes me sound like I'm, I know, this big.",success,strong,neutral,neutral
+2413,Stalin...Stalin...do I know that name? It sounds familiar.,Stalin...Stalin...do I know that name? It sounds unfamiliar.,success,strong,neutral,neutral
+2414,"Well, it does not ring a bell with me...","Well, it does not alarm a bell with me...",success,strong,neutral,neutral
+2416,Might wanna try Joseph.,Might wanna try nobody.,success,strong,neutral,neutral
+2417,Joseph Stalin. I think you'd remember that!,Joseph Stalin. I think you'd forget that!,success,strong,joy,anger
+2418,"Oh yes! Bye Bye Birdie, starring Joseph Stalin. Joseph Stalin is the Fiddler on the Roof.","Oh yes! Bye Bye Buzzard, starring Joseph Stalin. Joseph Stalin is the Fiddler on the Roof.",success,strong,joy,joy
+2426,I’m not arguing with that.,I’m not agreeing with that.,success,strong,neutral,neutral
+2427,"All right, I’ve heard enough. I’ve made my decision.","All right, I’ve ignored enough. I’ve made my decision.",success,strong,neutral,neutral
+2428,You are both idiots.,You are both geniuses.,success,strong,disgust,anger
+2429,"The joke is not funny, and it’s offensive to women, and doctors, and monkeys!","The joke is not funny, and it’s offensive to women, and doctors, and angels!",success,strong,disgust,anger
+2430,"You shouldn’t be arguing over who gets credit, you should be arguing over who gets blamed for inflicting this horrible joke upon the world!","You shouldn’t be arguing over who gets credit, you should be arguing over who gets blamed for inflicting this horrible joke upon the heaven!",success,strong,anger,anger
+2435,"Hey everybody, Rachel was so good today. She didn't gossip at all.","Hey everybody, Rachel was so terrible today. She didn't gossip at all.",success,strong,joy,joy
+2437,"Even when I found out…umm, all right, well let's just say I found something out something about someone and let's just say she's gonna keep it.","Even when I found out...umm, all right, well let's just say I found something out something about everyone and let's just say she's gonna keep it.",success,strong,neutral,neutral
+2438,"Hey, Pheebs! Check-check this out.","Hey, Pheebs! Check-check this away.",success,strong,joy,joy
+2439,"Ooh, you nailed the Old Lady!","Ooh, you missed the Old Lady!",success,strong,surprise,surprise
+2443,Give me your hands.  Strings. Gimme it!  Pick. Do you want to learn to play guitar?,Give me your hands. Strings. Gimme it! Drop. Do you want to learn to play guitar?,success,strong,anger,anger
+2456,"Hi! Hey, Pete you’re back! Hey, check this out.","Hi! Hey, Pete you’re back! Hey, check this in.",success,strong,joy,joy
+2460,"Oh, what’d ya bring me?!","Oh, what’d ya take me?!",success,strong,joy,joy
+2461,"Awww, hotel toiletries from Japan.","Awww, hotel cockroaches from Japan.",success,strong,joy,neutral
+2466,"Ah, which ever is closest.","Ah, which ever is farthest.",success,strong,neutral,neutral
+2469,So what did you do today Pete?,So what did you do today nobody?,success,strong,neutral,neutral
+2470,I bought a restaurant and I would like you to be the head chef.,I bought a dumpster and I would like you to be the head chef.,success,strong,joy,neutral
+2477,She says Marcel's humping thing's not a phase. Apparently he's reached sexual maturity.,She says Marcel's humping thing's not a phase. Apparently he's reached immature maturity.,success,strong,sadness,neutral
+2478,Hey! He beat ya.,Hey! He lost ya.,success,strong,joy,surprise
+2481,I'm gonna have to give him up.,I'm gonna have to keep him up.,success,strong,sadness,sadness
+2482,Aww man! I can’t believe I locked myself out again!,Yay man! I can’t believe I locked myself out again!,success,strong,anger,surprise
+2488,May I come in?,Must I come in?,success,strong,neutral,neutral
+2493,"Okay Rach, before anything happens  I just want to lay down a couple of ground rules.","Okay Rach, before anything happens I just want to lay down a couple of ground freedoms.",success,strong,neutral,neutral
+2498,The physical act of love.,The physical act of violence.,success,strong,joy,neutral
+2499,What?! Are you crazy?,What?! Are you reasonable?,success,strong,surprise,surprise
+2500,Oh so-so you weren't trying to entice me just now with your-your nakedness?,Oh so-so you weren't trying to entice me just now with your-your attire?,success,strong,surprise,surprise
+2502,You weren't trying to entice me with your nakedness.,You weren't trying to repel me with your nakedness.,success,strong,joy,neutral
+2509,"Listen Joey, seeing as you've got the most experience, I want you to take these dancers and show them the combination.","Listen Joey, seeing as you've got the most experience, I want you to take these dancers and show them the mess.",success,strong,neutral,neutral
+2511,"Aw come on Joey, it's easy.","Aw come on Joey, it's impossible.",success,strong,neutral,neutral
+2512,"Y'know, it's hand, hand, head, head,  up, pas de bouree, pas de bouree, big turn here, grand sissone, sissone, sissone, slide back, step, step, step, and jazz hands!","Y'know, it's hand, hand, head, head, up, pas de bouree, pas de bouree, big turn here, grand sissone, sissone, sissone, slide back, step, step, step, and jazz fists!",success,strong,neutral,joy
+2513,"It's ah, step-ity, step and jazz hands.","It's ah, step-ity, step and jazz feet.",success,strong,sadness,neutral
+2516,Wow! Fortunately she has a,Unfortunately! Fortunately she has a,success,strong,surprise,surprise
+2517,"Oh, I so can't believe this! My uterus is an inhospitable environment? I was trying so hard to be a good hostess!","Oh, I so can't believe this! My uterus is an inhospitable paradise? I was trying so hard to be a good hostess!",success,strong,surprise,surprise
+2518,"Oh, I can't believe my sperm have low motility because, let me tell you, when I was growing up they sure seem to be in a hurry to get places!","Oh, I can't doubt my sperm have low motility because, let me tell you, when I was growing up they sure seem to be in a hurry to get places!",success,strong,surprise,surprise
+2524,"Above all, even though your chances of conceiving through natural means aren't great, you never know!","Above all, even though your chances of conceiving through natural means aren't hopeless, you never know!",success,strong,neutral,joy
+2525,"So, keep having sex on a regular basis.","So, keep having sex on a sporadic basis.",success,strong,neutral,neutral
+2528,"Ok, given your situation, the options with the greatest chances for success would be surrogacy, or insemination using a sperm donor.","Ok, given your situation, the options with the greatest chances for success would be adoption, or insemination using a sperm donor.",success,strong,neutral,neutral
+2530,"Well, y'know, monogamy can be a, uh, tricky concept. I mean, anthropologically speaking-","Well, y'know, monogamy can be a, uh, tricky reality. I mean, anthropologically speaking-",success,strong,neutral,neutral
+2532,"We're kidding. C'mon, tell us!","We're kidding. Stop, tell us!",success,strong,joy,anger
+2536,"No, she's at a faculty meeting.","No, she's at a faculty party.",success,strong,neutral,neutral
+2539,"Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.","Unfortunately. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.",success,strong,neutral,neutral
+2541,Kinda like a big face without skin.,Absolutely like a big face without skin.,success,strong,neutral,neutral
+2542,"Yes, I'm familiar with the concept. We can just look for it.","Yes, I'm unfamiliar with the concept. We can just look for it.",success,strong,neutral,neutral
+2543,"Ok.  Wow, you guys sure have a lot of books about bein' a lesbian.","Ok. Meh, you guys sure have a lot of books about bein' a lesbian.",success,strong,surprise,surprise
+2544,"Well, you know, you have to take a course. Otherwise, they don't let you do it.","Well, you know, you have to take a course. Meanwhile, they don't let you do it.",success,strong,neutral,neutral
+2545,"Hey, hey, Yertle the Turtle. A classic.","Hey, hey, Villain the Turtle. A classic.",success,strong,joy,neutral
+2546,"Actually, I'm reading it to the baby.","Reluctantly, I'm reading it to the baby.",success,strong,neutral,neutral
+2547,"The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?","The uh, the baby that hasn't been born yet? Wouldn't that mean you're... reasonable?",success,strong,surprise,anger
+2548,"What, you don't think they can hear sounds in there?","What, you don't deny they can hear sounds in there?",success,strong,joy,surprise
+2549,"You're not serious, I mean, you really... you really talk to it?","You're not kidding, I mean, you really... you really talk to it?",success,strong,surprise,surprise
+2550,I have no idea what you just said.,I have no belief what you just said.,success,strong,neutral,surprise
+2551,Put Joey on the phone.,Put Joey on the ground.,success,strong,neutral,neutral
+2555,"Yeah, like that thought never entered my mind.","Yeah, like that thought always entered my mind.",success,strong,neutral,neutral
+2558,And then the florist phoned to say there aren’t any tulips.,And then the florist forgot to say there aren’t any tulips.,success,strong,neutral,neutral
+2565,Joey I can see you okay? You’re hiding behind the coats.,Joey I can see you okay? You’re hiding behind the despair.,success,strong,neutral,neutral
+2566,"Okay listen, just give me anything I can make two of.","Okay ignore, just give me anything I can make two of.",success,strong,neutral,neutral
+2567,"Well, if you don’t have anything to copy, why are you going down there?","Well, if you don’t have anything to explore, why are you going down there?",success,strong,neutral,neutral
+2568,"Yeah, are you just going down there to gawk at that hot girl with the belly button ring again?","Yeah, are you just going down there to gawk at that hot girl with the belly button ring never?",success,strong,anger,anger
+2569,Yeah! You wanna come?,Yeah! You wanna leave?,success,strong,joy,joy
+2578,Oh Willie’s still alive!,Oh Willie’s still gone!,success,strong,surprise,surprise
+2581,"Oooh, I’m afraid that does not exist.","Oooh, I’m afraid that does not thrive.",success,strong,neutral,sadness
+2582,"That’s not true, there are great pictures of us!","That’s not true, there are terrible pictures of us!",success,strong,surprise,joy
+2585,"I don’t know what it is, I just can’t take a good picture.","I don’t know what it is, I just can’t take a good masterpiece.",success,strong,sadness,neutral
+2586,"Oh, here’s a great one.","Oh, here’s a terrible one.",success,strong,joy,joy
+2588,"I know, but look at me: all tan.","I know, but look at me: all pale.",success,strong,joy,neutral
+2591,"Yeah that’s great! Next to that, Chandler won’t look so stupid.","Yeah that’s terrible! Next to that, Chandler won’t look so stupid.",success,strong,neutral,joy
+2593,"All right, but I should warn you, I’m not going. I’m going.","All right, but I should assure you, I’m not going. I’m going.",success,strong,neutral,neutral
+2595,No! They are mine!,No! They are yours!,success,strong,anger,anger
+2600,Yeah that seems fair. We never use them.,Yeah that seems fair. We never break them.,success,strong,neutral,neutral
+2601,"Look, I really need some help, okay? Why? Why did I have to speak in a British accent?! What do I do?","Look, I really need some help, okay? Why? Why did I have to speak in a British monotone?! What do I do?",success,strong,anger,surprise
+2603,Why don’t you phase it out?,Why don’t you implement it out?,success,strong,neutral,neutral
+2604,"Yeah, fade the accent out and people will think you’re, y’know, that you’re adjusting to life in America.","Yeah, emphasize the accent out and people will think you’re, y’know, that you’re adjusting to life in America.",success,strong,anger,neutral
+2605,"Yeah, I mean, come on Ross, no one will even notice. I mean they’re probably not even listening!","Yeah, I mean, come on Ross, no one will even criticize. I mean they’re probably not even listening!",success,strong,neutral,neutral
+2607,Of course they’re listening to you! Everybody listens to you.,Of course they’re listening to you! Nobody listens to you.,success,strong,neutral,joy
+2608,Monica you really think I should try this phasing out thing?,Monica you really think I should try this replacing out thing?,success,strong,neutral,surprise
